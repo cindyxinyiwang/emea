@@ -1,0 +1,17 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1,
+    "LABEL_2": 2,
+    "LABEL_3": 3,
+    "LABEL_4": 4,
+    "LABEL_5": 5,
+    "LABEL_6": 6
+  },
+  "model_class": "BertForTokenClassification",
+  "model_name": "bert-base-multilingual-cased",
+  "model_type": "bert",
+  "name": null
+}

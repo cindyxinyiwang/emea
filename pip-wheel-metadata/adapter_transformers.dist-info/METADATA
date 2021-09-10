@@ -1,0 +1,186 @@
+Metadata-Version: 2.1
+Name: adapter-transformers
+Version: 1.1.1
+Summary: A friendly fork of Huggingface's Transformers, adding Adapters to PyTorch language models
+Home-page: https://github.com/adapter-hub/adapter-transformers
+Author: Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, based on work by Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Sam Shleifer, Patrick von Platen, Google AI Language Team Authors, Open AI team Authors, Facebook AI Authors, Carnegie Mellon University Authors
+Author-email: pfeiffer@ukp.tu-darmstadt.de
+License: Apache
+Keywords: NLP deep learning transformer pytorch BERT adapters
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: tokenizers (==0.9.3)
+Requires-Dist: packaging
+Requires-Dist: filelock
+Requires-Dist: requests
+Requires-Dist: tqdm (>=4.27)
+Requires-Dist: regex (!=2019.12.17)
+Requires-Dist: sentencepiece (==0.1.91)
+Requires-Dist: protobuf
+Requires-Dist: sacremoses
+Requires-Dist: dataclasses ; python_version < "3.7"
+Provides-Extra: all
+Requires-Dist: tensorflow (>=2.0) ; extra == 'all'
+Requires-Dist: onnxconverter-common ; extra == 'all'
+Requires-Dist: keras2onnx ; extra == 'all'
+Requires-Dist: torch (>=1.0) ; extra == 'all'
+Requires-Dist: jaxlib (==0.1.55) ; extra == 'all'
+Requires-Dist: jax (>=0.2.0) ; extra == 'all'
+Requires-Dist: flax (==0.2.2) ; extra == 'all'
+Requires-Dist: sentencepiece (==0.1.91) ; extra == 'all'
+Requires-Dist: tokenizers (==0.9.2) ; extra == 'all'
+Provides-Extra: dev
+Requires-Dist: tensorflow (>=2.0) ; extra == 'dev'
+Requires-Dist: onnxconverter-common ; extra == 'dev'
+Requires-Dist: keras2onnx ; extra == 'dev'
+Requires-Dist: torch (>=1.0) ; extra == 'dev'
+Requires-Dist: jaxlib (==0.1.55) ; extra == 'dev'
+Requires-Dist: jax (>=0.2.0) ; extra == 'dev'
+Requires-Dist: flax (==0.2.2) ; extra == 'dev'
+Requires-Dist: sentencepiece (==0.1.91) ; extra == 'dev'
+Requires-Dist: tokenizers (==0.9.2) ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-xdist ; extra == 'dev'
+Requires-Dist: timeout-decorator ; extra == 'dev'
+Requires-Dist: parameterized ; extra == 'dev'
+Requires-Dist: psutil ; extra == 'dev'
+Requires-Dist: pytest-subtests ; extra == 'dev'
+Requires-Dist: faiss-cpu ; extra == 'dev'
+Requires-Dist: datasets ; extra == 'dev'
+Requires-Dist: black (>=20.8b1) ; extra == 'dev'
+Requires-Dist: isort (>=5.5.4) ; extra == 'dev'
+Requires-Dist: flake8 (>=3.8.3) ; extra == 'dev'
+Requires-Dist: fugashi (>=1.0) ; extra == 'dev'
+Requires-Dist: ipadic (<2.0,>=1.0.0) ; extra == 'dev'
+Requires-Dist: unidic-lite (>=1.0.7) ; extra == 'dev'
+Requires-Dist: unidic (>=1.0.2) ; extra == 'dev'
+Requires-Dist: recommonmark ; extra == 'dev'
+Requires-Dist: sphinx (==3.2.1) ; extra == 'dev'
+Requires-Dist: sphinx-markdown-tables ; extra == 'dev'
+Requires-Dist: sphinx-rtd-theme (==0.4.3) ; extra == 'dev'
+Requires-Dist: sphinx-copybutton ; extra == 'dev'
+Requires-Dist: scikit-learn ; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: recommonmark ; extra == 'docs'
+Requires-Dist: sphinx (==3.2.1) ; extra == 'docs'
+Requires-Dist: sphinx-markdown-tables ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme (==0.4.3) ; extra == 'docs'
+Requires-Dist: sphinx-copybutton ; extra == 'docs'
+Provides-Extra: flax
+Requires-Dist: jaxlib (==0.1.55) ; extra == 'flax'
+Requires-Dist: jax (>=0.2.0) ; extra == 'flax'
+Requires-Dist: flax (==0.2.2) ; extra == 'flax'
+Provides-Extra: ja
+Requires-Dist: fugashi (>=1.0) ; extra == 'ja'
+Requires-Dist: ipadic (<2.0,>=1.0.0) ; extra == 'ja'
+Requires-Dist: unidic-lite (>=1.0.7) ; extra == 'ja'
+Requires-Dist: unidic (>=1.0.2) ; extra == 'ja'
+Provides-Extra: onnxruntime
+Requires-Dist: onnxruntime (>=1.4.0) ; extra == 'onnxruntime'
+Requires-Dist: onnxruntime-tools (>=1.4.2) ; extra == 'onnxruntime'
+Provides-Extra: quality
+Requires-Dist: black (>=20.8b1) ; extra == 'quality'
+Requires-Dist: isort (>=5.5.4) ; extra == 'quality'
+Requires-Dist: flake8 (>=3.8.3) ; extra == 'quality'
+Provides-Extra: retrieval
+Requires-Dist: faiss-cpu ; extra == 'retrieval'
+Requires-Dist: datasets ; extra == 'retrieval'
+Provides-Extra: sentencepiece
+Requires-Dist: sentencepiece (==0.1.91) ; extra == 'sentencepiece'
+Provides-Extra: serving
+Requires-Dist: pydantic ; extra == 'serving'
+Requires-Dist: uvicorn ; extra == 'serving'
+Requires-Dist: fastapi ; extra == 'serving'
+Requires-Dist: starlette ; extra == 'serving'
+Provides-Extra: sklearn
+Requires-Dist: scikit-learn ; extra == 'sklearn'
+Provides-Extra: testing
+Requires-Dist: pytest ; extra == 'testing'
+Requires-Dist: pytest-xdist ; extra == 'testing'
+Requires-Dist: timeout-decorator ; extra == 'testing'
+Requires-Dist: parameterized ; extra == 'testing'
+Requires-Dist: psutil ; extra == 'testing'
+Requires-Dist: pytest-subtests ; extra == 'testing'
+Requires-Dist: faiss-cpu ; extra == 'testing'
+Requires-Dist: datasets ; extra == 'testing'
+Provides-Extra: tf
+Requires-Dist: tensorflow (>=2.0) ; extra == 'tf'
+Requires-Dist: onnxconverter-common ; extra == 'tf'
+Requires-Dist: keras2onnx ; extra == 'tf'
+Provides-Extra: tf-cpu
+Requires-Dist: tensorflow-cpu (>=2.0) ; extra == 'tf-cpu'
+Requires-Dist: onnxconverter-common ; extra == 'tf-cpu'
+Requires-Dist: keras2onnx ; extra == 'tf-cpu'
+Provides-Extra: tokenizers
+Requires-Dist: tokenizers (==0.9.2) ; extra == 'tokenizers'
+Provides-Extra: torch
+Requires-Dist: torch (>=1.0) ; extra == 'torch'
+
+`adapter-transformers` is an extension of [HuggingFace's Transformers](https://github.com/huggingface/transformers) library, integrating adapters into state-of-the-art language models by incorporating **[AdapterHub](https://adapterhub.ml)**, a central repository for pre-trained adapter modules.
+
+This library can be used as a drop-in replacement for HuggingFace Transformers and regularly synchronizes new upstream changes.
+
+## Quick tour
+
+_adapter-transformers_ currently supports **Python 3.6+** and **PyTorch 1.1.0+**.
+After [installing PyTorch](https://pytorch.org/get-started/locally/), you can install _adapter-transformers_ from PyPI ...
+
+```
+pip install -U adapter-transformers
+```
+
+... or from source by cloning the repository:
+
+```
+git clone https://github.com/adapter-hub/adapter-transformers.git
+cd adapter-transformers
+pip install .
+```
+
+## Getting Started
+
+HuggingFace's great documentation on getting started with _Transformers_ can be found [here](https://huggingface.co/transformers/index.html). _adapter-transformers_ is fully compatible with _Transformers_.
+
+To get started with adapters, refer to these locations:
+
+- **[Colab notebook tutorials](https://github.com/Adapter-Hub/adapter-transformers/tree/master/notebooks)**, a series notebooks providing an introduction to all the main concepts of (adapter-)transformers and AdapterHub
+- **https://docs.adapterhub.ml**, our documentation on training and using adapters with _adapter-transformers_
+- **https://adapterhub.ml** to explore available pre-trained adapter modules and share your own adapters
+- **[Examples folder](https://github.com/Adapter-Hub/adapter-transformers/tree/master/examples)** of this repository containing HuggingFace's example training scripts, many adapted for training adapters
+
+
+## Citation
+
+If you find this library useful, please cite our paper [AdapterHub: A Framework for Adapting Transformers](https://arxiv.org/abs/2007.07779):
+
+```
+@inproceedings{pfeiffer2020AdapterHub,
+    title={AdapterHub: A Framework for Adapting Transformers},
+    author={Pfeiffer, Jonas and
+            R{\"u}ckl{\'e}, Andreas and
+            Poth, Clifton and
+            Kamath, Aishwarya and
+            Vuli{\'c}, Ivan and
+            Ruder, Sebastian and
+            Cho, Kyunghyun and
+            Gurevych, Iryna},
+    booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations},
+    pages={46--54},
+    year={2020}
+}
+```
+
+
