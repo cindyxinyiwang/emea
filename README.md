@@ -4,7 +4,9 @@ This repository contains the implementation for [our paper](https://arxiv.org/ab
 
 ``
 Efficient Test Time Adapter Ensembling for Low-resource Language Varieties
+
 Xinyi Wang, Yulia Tsvetkov,Sebastian Ruder, Graham Neubig
+
 EMNLP 2021 Findings
 ``
 
@@ -14,7 +16,7 @@ Our code is based on the [adapter-transformers](https://github.com/Adapter-Hub/a
 We find that specialized language adapters might not be robust to unseen language variations, and that utilization of multiple existing pretrained language adapters alleviates this issue. We propose an algorithm named EMEA(Entropy Minimized Ensemble of Language Adapters), which optimizes the ensemble weights of a group of related language adapters at test time for each test input.
 
 # Main method implementation
-The main function for optimizing the adapter weighting using EMEA is [here](https://github.com/cindyxinyiwang/multiview-subword-regularization/blob/main/third_party/run_mv_tag.py#L197).
+The main function for optimizing the adapter weighting using EMEA is [here](https://github.com/cindyxinyiwang/emea/blob/main/third_party/run_tag.py#L245).
 
 # Download the data
 We simply use the data downloading instruction from the official XTREME repo. We also provide the processed data for NER in data/.
@@ -31,7 +33,6 @@ EMEA is a test time decoding algorithm. You need to train a task adapter before 
 Baseline
 ``
 bash job_scripts/test_panx_adapter.sh
-
 ``
 
 Ensemble
@@ -60,7 +61,7 @@ Please cite our paper as:
             Tsvetkov, Yulia and
             Ruder, Sebastian and
             Neubig, Graham},
-    booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: Findings},
+    booktitle={EMNLP: Findings},
     year={2021}
 }
 ```
