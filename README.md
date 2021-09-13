@@ -2,13 +2,11 @@
 
 This repository contains the implementation for [our paper](https://arxiv.org/abs/2109.04877).
 
-``
+```
 Efficient Test Time Adapter Ensembling for Low-resource Language Varieties
-
 Xinyi Wang, Yulia Tsvetkov,Sebastian Ruder, Graham Neubig
-
 EMNLP 2021 Findings
-``
+```
 
 Our code is based on the [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers/tree/master/src/transformers/adapters) codebase and the [XTREME](https://github.com/google-research/xtreme) benchmark
 
