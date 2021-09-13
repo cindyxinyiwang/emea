@@ -1,6 +1,6 @@
 # Efficient Test Time Adapter Ensembling for Low-resource Language Varieties
 
-This repository contains the implementation for [our paper](https://arxiv.org/abs/2103.08490).
+This repository contains the implementation for [our paper](https://arxiv.org/abs/2109.04877).
 
 ``
 Efficient Test Time Adapter Ensembling for Low-resource Language Varieties
