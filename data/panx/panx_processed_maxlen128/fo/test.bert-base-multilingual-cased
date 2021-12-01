@@ -1,0 +1,933 @@
+Byrta	B-ORG
+-	O
+Aftur	O
+og	O
+aftur	O
+
+'	O
+''	O
+Hálshvítur	B-LOC
+nápur	I-LOC
+''	O
+'	O
+
+Universitetið	B-ORG
+í	I-ORG
+Tübingen	I-ORG
+varð	O
+stovnað	O
+
+Vinnarin	O
+var	O
+italiumaðurin	O
+Gregorio	B-PER
+Paltrinieri	I-PER
+,	O
+ið	O
+vann	O
+við	O
+tíðini	O
+7:44.98	O
+.	O
+
+Í	O
+prosentum	O
+er	O
+Sambandsflokkurin	B-ORG
+størsti	O
+flokkur	O
+á	O
+tingi	O
+,	O
+men	O
+hevur	O
+einans	O
+7	O
+tinglimir	O
+.	O
+
+Framburðsflokkurin	B-ORG
+(	I-ORG
+FrP	I-ORG
+)	I-ORG
+
+Tottenham	B-ORG
+Hotspur	I-ORG
+F.C	I-ORG
+.	I-ORG
+
+Henrik	B-PER
+Old	I-PER
+(	O
+JF	B-ORG
+)	O
+1995–1998	O
+
+Oyggin	O
+er	O
+ein	O
+av	O
+teimum	O
+trimum	O
+ABC-oyggjunum	B-LOC
+og	O
+liggur	O
+20	O
+km	O
+eystan	O
+fyri	O
+Curaçao	B-LOC
+.	O
+
+Hannibal	B-PER
+hevði	O
+ein	O
+fíl	O
+nevndur	O
+``	O
+Surus	O
+''	O
+;	O
+hetta	O
+nevni	O
+kundi	O
+týtt	O
+``	O
+hin	O
+sýriski	O
+''	O
+.	O
+
+Uni	B-PER
+Arge	I-PER
+”Mitt	O
+í	O
+sjónum”	O
+
+Golden	B-ORG
+Gate	I-ORG
+brúgvin	I-ORG
+
+úr	O
+Evropa	B-LOC
+í	O
+Afrika	B-LOC
+.	O
+
+Nógv	O
+viðurskifti	O
+vóru	O
+ring	O
+at	O
+hava	O
+tamarhald	O
+á.	O
+Skiftandi	O
+veður	O
+,	O
+skiftandi	O
+ljóssetingar	O
+og	O
+alt	O
+tað	O
+,	O
+ið	O
+føroyingar	B-LOC
+eru	O
+so	O
+vanir	O
+við	O
+.	O
+
+Sum	O
+navnið	O
+bendur	O
+á	O
+,	O
+er	O
+Stokkastovan	O
+bygd	O
+af	O
+viðarstokkum	O
+,	O
+ein	O
+heldur	O
+sjáldsamur	O
+bygningsháttur	O
+í	O
+Føroyum	B-LOC
+.	O
+
+Á	O
+vetri	O
+leita	O
+summir	O
+til	O
+lýggjari	O
+lond	O
+,	O
+eitt	O
+nú	O
+Føroyar	B-LOC
+.	O
+
+Todi	B-PER
+Jónsson	I-PER
+,	O
+90	O
+.	O
+
+Vegur	O
+er	O
+nú	O
+gjørdur	O
+úr	O
+Sørvági	B-LOC
+til	O
+Miðvágs	B-LOC
+og	O
+Sandavágs	B-LOC
+.	O
+
+The	B-ORG
+Walt	I-ORG
+Disney	I-ORG
+Company	I-ORG
+
+Jens	B-PER
+Fink-Jensen	I-PER
+,	O
+rithøvundur	O
+.	O
+
+Lena	B-PER
+Anderssen	I-PER
+-	O
+Ársins	O
+songkvinna	O
+
+Høvuðsgudar	O
+teirra	O
+vóru	O
+Tórur	B-PER
+,	O
+Óðin	B-PER
+og	O
+Froyur	O
+.	O
+
+Sámal	B-PER
+Johansen	I-PER
+,	O
+rithøvundur	O
+.	O
+
+Harumframt	O
+hevur	O
+hann	O
+spælt	O
+bass	O
+við	O
+eitt	O
+nú	O
+Eivør	B-PER
+Pálsdóttir	I-PER
+.	O
+
+'	O
+''	O
+Österbymo	O
+''	O
+'	O
+er	O
+ein	O
+býur	O
+í	O
+Ydre	B-LOC
+kommunu	I-LOC
+í	O
+Östergötlands	B-LOC
+län	I-LOC
+í	O
+Svøríki	B-LOC
+.	O
+
+Hashøj	B-LOC
+kommuna	I-LOC
+,	O
+Korsør	B-LOC
+kommuna	I-LOC
+,	O
+Skælskør	B-LOC
+kommuna	I-LOC
+,	O
+Slagelse	B-LOC
+kommuna	I-LOC
+
+Mormonar	B-ORG
+-	O
+4	O
+%	O
+
+Grein	O
+hjá	O
+Anker	B-PER
+Eli	I-PER
+Petersen	I-PER
+)	O
+.	O
+
+Hetta	O
+staðfesti	O
+samstundis	O
+upploysnina	O
+av	O
+Spacemen	B-ORG
+3	I-ORG
+,	O
+og	O
+Spiritualized	O
+kundi	O
+byrja	O
+.	O
+
+Tunnilin	O
+er	O
+2,8	O
+metrar	O
+høgur	O
+og	O
+er	O
+hann	O
+lægsti	O
+tunnil	O
+í	O
+Føroyum	B-LOC
+.	O
+
+Millumtjóða	B-ORG
+eindarskipanin	I-ORG
+'	I-ORG
+''	I-ORG
+SI	I-ORG
+''	I-ORG
+'	I-ORG
+
+'	O
+''	O
+Úr	O
+Týsklandi	B-LOC
+''	O
+'	O
+
+Bert	O
+Pál	B-PER
+Joensen	I-PER
+hevði	O
+megnað	O
+tað	O
+áður	O
+.	O
+
+Turkur	O
+er	O
+stórt	O
+vandamál	O
+í	O
+hesum	O
+parti	O
+í	O
+Vesturafrika	B-LOC
+.	O
+
+'	O
+''	O
+Roðagrælingur	B-LOC
+''	O
+'	O
+
+Stovnurin	O
+heldur	O
+til	O
+í	O
+Landslæknahúsinum	O
+á	O
+Sigmundargøtu	O
+í	O
+Havn	B-LOC
+.	O
+
+Fyri	O
+tað	O
+æt	O
+landið	O
+Palestina	B-ORG
+.	O
+
+Seyed	B-PER
+Ali	I-PER
+Khamenei	I-PER
+
+'	O
+''	O
+Stórur	B-LOC
+gulstelkur	I-LOC
+''	O
+'	O
+
+Jógvan	B-PER
+Martin	I-PER
+Olsen	I-PER
+(	O
+2006-2008	O
+)	O
+
+Oyggjarnar	O
+eru	O
+einar	O
+100	O
+km	O
+í	O
+ein	O
+útnyrðing	O
+úr	O
+Marokko	B-LOC
+.	O
+
+Eins	O
+og	O
+í	O
+Løgtinginum	B-ORG
+verða	O
+uppskot	O
+beind	O
+í	O
+ymiskar	O
+nevndir	O
+.	O
+
+Andras	B-PER
+Guttormsson	I-PER
+,	O
+(	O
+uml	O
+.	O
+
+Kili	B-LOC
+0,35	O
+(	O
+2,48	O
+)	O
+
+Longu	O
+sama	O
+ár	O
+gjørdist	O
+TSF	O
+sjálvstøðugur	O
+limur	O
+í	O
+Altjóða	O
+Talvsambandinum	O
+FIDE	B-ORG
+.	O
+
+Frammanundan	O
+hevði	O
+hann	O
+boðað	O
+frá	O
+,	O
+at	O
+Jóhannes	B-PER
+Doyparin	I-PER
+skuldi	O
+verða	O
+føddur	O
+.	O
+
+Langabbi	O
+Hans	B-PER
+Jacob	I-PER
+Højgaard	I-PER
+tónaskald	O
+.	O
+
+Hans	B-PER
+Andrias	I-PER
+Djurhuus	I-PER
+
+Bretland	B-LOC
+og	O
+Frakland	B-LOC
+róku	O
+eftirlætispolitikk	O
+,	O
+ið	O
+gav	O
+Hitler	B-PER
+frið	O
+at	O
+gera	O
+hetta	O
+.	O
+
+47	O
+limir	O
+í	O
+Fólkatinginum	B-ORG
+.	O
+
+'	O
+''	O
+Atassut	B-ORG
+''	O
+'	O
+
+Hin	O
+helmingurin	O
+er	O
+Senatið	B-ORG
+.	O
+
+Tað	O
+hevur	O
+eisini	O
+stóran	O
+týdning	O
+sum	O
+farleið	O
+millum	O
+londini	O
+Kenja	B-LOC
+,	O
+Uganda	B-LOC
+og	O
+Tansania	B-LOC
+.	O
+
+Enn	O
+hevur	O
+hann	O
+bara	O
+verið	O
+forseti	O
+í	O
+góðar	O
+átta	O
+mánaðir	O
+,	O
+og	O
+hesa	O
+tíðina	O
+hevur	O
+hann	O
+verið	O
+í	O
+16	O
+londum	O
+ella	O
+eitt	O
+fleiri	O
+enn	O
+George	B-PER
+Bush	I-PER
+eldri	I-PER
+,	O
+sum	O
+vitjaði	O
+15	O
+lond	O
+í	O
+sínum	O
+fyrsta	O
+forsetaári	O
+.	O
+
+HB	B-ORG
+(	I-ORG
+kvinnur	I-ORG
+)	I-ORG
+
+Hýggiflogmúsin	O
+er	O
+tann	O
+næstvanligasta	O
+í	O
+Norðurhøvum	B-LOC
+aftan	O
+á	O
+trøllflogmúsina	O
+.	O
+
+``	O
+Eg	O
+eri	O
+ikki	O
+komin	O
+at	O
+bróta	O
+niður	O
+,	O
+men	O
+at	O
+fullføra	O
+''	O
+,	O
+segði	O
+Jesus	B-PER
+.	O
+
+'	O
+''	O
+Úr	O
+Fraklandi	B-LOC
+''	O
+'	O
+
+Allir	O
+sangirnir	O
+eru	O
+skrivaðir	O
+av	O
+Lennon	B-PER
+/	O
+McCartney	B-PER
+um	O
+einki	O
+annað	O
+er	O
+viðmerkt	O
+.	O
+
+Hann	O
+hevur	O
+áður	O
+spælt	O
+á	O
+U17	B-ORG
+landsliðnum	I-ORG
+.	O
+
+Veðurlagsráðið	B-ORG
+hjá	I-ORG
+ST	I-ORG
+
+Tað	O
+hevur	O
+eisini	O
+hent	O
+seg	O
+,	O
+at	O
+teir	O
+hava	O
+funnið	O
+deyðamannalutir	O
+frá	O
+tíðini	O
+langt	O
+fyri	O
+Kristi	B-PER
+føðing	O
+.	O
+
+Matteo	B-PER
+Renzi	I-PER
+(	O
+2013–nú	O
+)	O
+
+''	O
+'Mikines	O
+''	O
+'	O
+er	O
+málarin	O
+Sámal	B-PER
+Joensen-Mikines	I-PER
+
+Real	B-ORG
+Madrid	I-ORG
+C.F	I-ORG
+.	I-ORG
+
+Hann	O
+var	O
+nevndarformaður	O
+í	O
+Smyril	B-ORG
+Line	I-ORG
+1986-1991	O
+.	O
+
+at	O
+hann	O
+var	O
+tveittur	O
+úr	O
+Javnaðarflokkinum	B-ORG
+.	O
+
+Hann	O
+var	O
+valdur	O
+á	O
+Løgting	B-ORG
+1988-1998	O
+.	O
+
+Tann	O
+víðagitnasti	O
+karolingski	O
+kongurin	O
+var	O
+Karlamagnus	B-PER
+.	O
+
+Sgt	B-ORG
+Pepper	I-ORG
+'s	I-ORG
+Lonely	I-ORG
+Hearts	I-ORG
+Club	I-ORG
+Band	I-ORG
+(	I-ORG
+LP	I-ORG
+)	I-ORG
+
+Edmund	B-PER
+Joensen	I-PER
+(	O
+SaF	O
+)	O
+
+2013-14	O
+EB	B-ORG
+/	I-ORG
+Streymur	I-ORG
+
+Russland	B-LOC
+(	O
+fastur	O
+limur	O
+)	O
+
+Hetta	O
+byggir	O
+á	O
+framburðin	O
+(	O
+ljóðfrøðina	O
+)	O
+og	O
+ikki	O
+á	O
+upprunan	O
+(	O
+upprunafrøðina	O
+)	O
+sum	O
+stavingarlagið	O
+eftir	O
+Hammershaimb	B-PER
+.	O
+
+Venceslaus	B-PER
+Ulricus	I-PER
+Hammershaimb	I-PER
+
+Momoiro	B-ORG
+Clover	I-ORG
+Z	I-ORG
+
+Heinrich	B-PER
+Heine	I-PER
+(	O
+1797–1856	O
+)	O
+
+Kongressin	B-ORG
+í	I-ORG
+USA	I-ORG
+
+'	O
+''	O
+Sundgrælingur	B-LOC
+''	O
+'	O
+
+e	O
+)	O
+Fámjin	B-LOC
+
+'	O
+''	O
+Hebrearabrævið	O
+''	O
+'	O
+er	O
+einasta	O
+brævið	O
+í	O
+N.T	B-ORG
+.	I-ORG
+,	O
+ið	O
+slættis	O
+ikki	O
+hevur	O
+upplýsingar	O
+um	O
+høvundin	O
+.	O
+
+Dianalund	B-LOC
+kommuna	I-LOC
+,	O
+Sorø	B-LOC
+kommuna	I-LOC
+,	O
+Stenlille	B-LOC
+kommuna	I-LOC
+
+Kristina	B-PER
+Háfoss	I-PER
+(	O
+E	O
+)	O
+
+Felagið	B-ORG
+fyri	I-ORG
+kommunufeløg	I-ORG
+í	I-ORG
+Evropa	I-ORG
+
+Italia	B-ORG
+,	I-ORG
+fótbóltslandsliðið	I-ORG
+hjá	I-ORG
+monnum	I-ORG
+
+e	O
+)	O
+Tjørnuvík	B-LOC
+,	O
+á	O
+sandinum	O
+.	O
+
+Hetta	O
+førdi	O
+bólkin	O
+tvørtur	O
+um	O
+Norðuramerika	B-LOC
+og	O
+Japan	B-LOC
+,	O
+og	O
+plátan	O
+seldi	O
+omanfyri	O
+10	O
+mió	O
+.	O
+
+Atli	B-PER
+Danielsen	I-PER
+,	O
+fótbóltsleikari	O
+.	O
+
+Centro	B-ORG
+Federal	I-ORG
+de	I-ORG
+Educação	I-ORG
+Tecnológica	I-ORG
+Celso	I-ORG
+Suckow	I-ORG
+da	I-ORG
+Fonseca	I-ORG
+
+Sport	B-ORG
+Club	I-ORG
+Corinthians	I-ORG
+Paulista	I-ORG
+
+Idrottsparken]]	O
+,	O
+Landskrona	B-LOC
+(	O
+N	O
+)	O
+
+Eindarlistin	B-ORG
+–	O
+5	O
+limir	O
+
+At	O
+menna	O
+ferðavinnuna	O
+í	O
+Føroyum	B-LOC
+og	O
+at	O
+marknaðarføra	O
+Føroyar	B-LOC
+sum	O
+ferðamannaland	O
+
+Upprunaliga	O
+ætlaði	O
+George	B-PER
+Lucas	I-PER
+at	O
+framleiða	O
+níggju	O
+partar	O
+.	O
+
+Jens	B-ORG
+Stoltenbergs	I-ORG
+2.	I-ORG
+stjórn	I-ORG
+
+'	O
+''	O
+B71	B-ORG
+''	O
+'	O
+
+10	O
+í	O
+400	B-ORG
+m	I-ORG
+frí	I-ORG
+við	O
+tíðini	O
+3:47.36	O
+.	O
+
+'	O
+''	O
+VB	B-ORG
+''	O
+'	O
+
+'	O
+''	O
+Malmö	B-LOC
+''	O
+'	O
+
+*1988	O
+Oddvør	B-PER
+Johansen	I-PER
+fyri	O
+bókina	O
+''Skip	O
+í	O
+eygsjón	O
+''	O

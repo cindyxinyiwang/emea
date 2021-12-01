@@ -1,0 +1,5360 @@
+এলমার	B-PER
+জে	I-PER
+ফড	I-PER
+
+সাঈদ	B-PER
+আনোয়ার	I-PER
+(	I-PER
+ক্রিকেটার	I-PER
+)	I-PER
+
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+মাউন্টেইন	B-LOC
+ভিউ	I-LOC
+,	I-LOC
+ক্যালিফোর্নিয়া	I-LOC
+
+নুসরাত	B-PER
+ইমরোজ	I-PER
+তিশা	I-PER
+
+জর্জিয়া	B-LOC
+(	I-LOC
+রাষ্ট্র	I-LOC
+)	I-LOC
+
+জালাল	B-PER
+উদ্দিন	I-PER
+মুহাম্মদ	I-PER
+রুমি	I-PER
+
+জে.	B-PER
+আর.	I-PER
+আর.	I-PER
+টলকিন	I-PER
+
+জন	B-PER
+ফিট্‌জেরাল্ড	I-PER
+কেনেডি	I-PER
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+জোন	B-PER
+অব	I-PER
+আর্ক	I-PER
+
+আহসান	B-PER
+হাবীব	I-PER
+(	I-PER
+কার্টুনিস্ট	I-PER
+)	I-PER
+
+সিমোন	B-PER
+দ্য	I-PER
+বোভোয়ার	I-PER
+
+বিশ্ব	B-ORG
+ঐতিহ্যবাহী	I-ORG
+স্থান	I-ORG
+
+রবিন	B-PER
+উড	I-PER
+(	I-PER
+সমালোচক	I-PER
+)	I-PER
+
+দক্ষিণ	B-LOC
+খোরসন	I-LOC
+প্রদেশ	I-LOC
+
+**	O
+বার্লিন	B-LOC
+(	O
+দূতাবাস	O
+)	O
+
+সিমতিয়ের	B-LOC
+দু	I-LOC
+পের	I-LOC
+লাশেজ	I-LOC
+
+ভারতীয়	B-ORG
+মহাকাশ	I-ORG
+গবেষণা	I-ORG
+সংস্থা	I-ORG
+
+লিন্ডন	B-PER
+বি.	I-PER
+জনসন	I-PER
+
+রেওয়ারী	B-LOC
+(	I-LOC
+গ্রাম্য	I-LOC
+)	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+দ্য	B-ORG
+রোলিং	I-ORG
+স্টোনস	I-ORG
+
+'	O
+''	O
+রোমান	B-PER
+রেইংস	I-PER
+''	O
+'	O
+
+উয়েফা	B-LOC
+ইউরোপীয়ান	I-LOC
+চ্যাম্পিয়নশিপ	I-LOC
+
+''ভূমি	O
+''	O
+চরিত্রে	O
+শুভশ্রী	B-PER
+গাঙ্গুলী	I-PER
+
+প্যাস্কেল	B-ORG
+(	I-ORG
+একক	I-ORG
+)	I-ORG
+
+কাজী	B-PER
+আনোয়ার	I-PER
+হোসেন	I-PER
+
+আহমেদ	B-PER
+আকবর	I-PER
+সোবহান	I-PER
+
+দক্ষিণ	B-ORG
+আফ্রিকা	I-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+কোত	B-ORG
+দিভোয়ার	I-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+জর্জ	B-PER
+হারবার্ট	I-PER
+ওয়াকার	I-PER
+বুশ	I-PER
+
+মাৎসু	B-PER
+বাসো	I-PER
+(	O
+১৬৪৪-১৬৯৪	O
+)	O
+
+বল্লভপুর	B-LOC
+বন্যপ্রাণ	I-LOC
+অভয়ারণ্য	I-LOC
+
+জাতীয়	B-LOC
+ক্রিকেট	I-LOC
+স্টেডিয়াম	I-LOC
+(	I-LOC
+গ্রেনাডা	I-LOC
+)	I-LOC
+
+**	O
+কালোঝুঁটি	B-LOC
+সারস	I-LOC
+,	O
+''Balearica	O
+pavonina	O
+''	O
+
+বাংলাদেশ	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+ফোর্ড	B-ORG
+মোটর	I-ORG
+কোম্পানি	I-ORG
+
+নাসিরউদ্দিন	B-PER
+নুসরাত	I-PER
+শাহ	I-PER
+(	O
+১৫১৯-১৫৩৩	O
+)	O
+
+সাঁ	B-LOC
+পিয়ের	I-LOC
+ও	I-LOC
+মিক‌লোঁ	I-LOC
+
+আবাস	B-PER
+(	I-PER
+লিন্সেউসের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+সেপ্টেম্বর	B-ORG
+১১	I-ORG
+,	I-ORG
+২০০১	I-ORG
+এর	I-ORG
+হামলা	I-ORG
+
+প্রথম	B-PER
+বাহাদুর	I-PER
+শাহ	I-PER
+
+'	O
+''	O
+রস	B-PER
+টেলর	I-PER
+''	O
+'	O
+
+হালিশহর	B-LOC
+,	I-LOC
+পশ্চিমবঙ্গ	I-LOC
+
+নিউক্যাসেল	B-ORG
+ইউনাইটেড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+দ্যাট	B-ORG
+সেভেন্টিজ্‌	I-ORG
+শো	I-ORG
+
+আন্তর্জাতিক	B-ORG
+অ্যাথলেটিকস	I-ORG
+ফেডারেশন	I-ORG
+
+একোল	B-ORG
+নর্মাল	I-ORG
+সুপেরিয়র	I-ORG
+
+লি	B-PER
+ডাক	I-PER
+আহ	I-PER
+
+মধ্য	B-LOC
+আফ্রিকান	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+ফুটবল	B-ORG
+ক্লাব	I-ORG
+ইন্তারনাজিওনালে	I-ORG
+মিলানো	I-ORG
+
+পরমব্রত	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+পাওলি	B-PER
+দাম	I-PER
+,	O
+ইন্দ্রনীল	B-PER
+সেনগুপ্ত	I-PER
+
+মোহনদাস	B-PER
+করমচাঁদ	I-PER
+গান্ধী	I-PER
+
+শ্রেষ্ঠ	O
+কাহিনীকার	O
+-	O
+হুমায়ূন	B-PER
+আহমেদ	I-PER
+
+মুহাম্মদ	B-PER
+আজম	I-PER
+খান	I-PER
+
+চিল্ড্রেন	B-ORG
+অব	I-ORG
+বডম	I-ORG
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্র	I-ORG
+জাতীয়	I-ORG
+পুরুষ	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+সর্ব	B-ORG
+ভারতীয়	I-ORG
+ফুটবল	I-ORG
+ফেডারেশন	I-ORG
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্র	I-ORG
+জাতীয়	I-ORG
+পুরুষ	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+আবীর	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+পায়েল	B-PER
+সরকার	I-PER
+
+হোসেন	B-PER
+শহীদ	I-PER
+সোহ্‌রাওয়ার্দী	I-PER
+
+দি	B-ORG
+ইউনিভার্স	I-ORG
+(	I-ORG
+টিভি	I-ORG
+সিরিজ	I-ORG
+)	I-ORG
+
+বগুড়া-৫	O
+(	O
+শেরপুর	B-LOC
+)	O
+
+জিত	O
+,	O
+কোয়েল	B-PER
+মল্লিক	I-PER
+,	O
+তাপস	B-PER
+পাল	I-PER
+
+জন	B-PER
+লগি	I-PER
+বেয়ার্ড	I-PER
+
+মহানন্দা	B-LOC
+বন্যপ্রাণ	I-LOC
+অভয়ারণ্য	I-LOC
+
+ব্ল্যাকবার্ন	B-ORG
+রোভার্স	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+প্রথম	B-PER
+উইলিয়াম	I-PER
+(	I-PER
+ইংল্যান্ড	I-PER
+)	I-PER
+
+***	O
+বাংলাদেশের	B-ORG
+সাধারণ	I-ORG
+নির্বাচন	I-ORG
+,	I-ORG
+২০০১	I-ORG
+
+উত্তর	B-ORG
+কোরিয়া	I-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+ডেভিড	B-PER
+জোনাথন	I-PER
+গ্রস	I-PER
+
+আবু	B-ORG
+রায়হান	I-ORG
+আল	I-ORG
+বিরুনি	I-ORG
+
+গিবসন	B-ORG
+গিটার	I-ORG
+কর্পোরেশন	I-ORG
+
+লার্জ	B-ORG
+হ্যাড্রন	I-ORG
+কলাইডার	I-ORG
+
+বাংলাদেশ	B-ORG
+ছাত্র	I-ORG
+ইউনিয়ন	I-ORG
+
+পাফনুতি	B-PER
+লভোভিচ	I-PER
+চেবিশেভ	I-PER
+
+|	O
+width=	O
+200px	O
+|	O
+মহারাষ্ট্র	B-LOC
+,	O
+ওড়িশা	B-LOC
+,	O
+তেলঙ্গানা	B-LOC
+,	O
+অন্ধ্রপ্রদেশ	B-LOC
+,	O
+কর্ণাটক	B-LOC
+,	O
+তামিলনাড়ু	B-LOC
+
+আন্দামান	B-LOC
+ও	I-LOC
+নিকোবর	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+আশুতোষ	B-PER
+মুখোপাধ্যায়	I-PER
+(	I-PER
+শিক্ষাবিদ	I-PER
+)	I-PER
+
+পোর্ট	B-LOC
+অব	I-LOC
+স্পেন	I-LOC
+
+হেনরি	B-PER
+নরিস	I-PER
+রাসেল	I-PER
+
+'	O
+''	O
+এবং	O
+সিনাই	B-LOC
+পর্বতের	I-LOC
+,	O
+
+অঙ্কুশ	B-PER
+হাজরা	I-PER
+,	O
+তাপস	B-PER
+পাল	I-PER
+,	O
+রজতাভ	B-PER
+দত্ত	I-PER
+
+গেয়র্গ	B-PER
+ভিলহেল্ম	I-PER
+ফ্রিডরিখ	I-PER
+হেগেল	I-PER
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+সিরা	B-LOC
+,	I-LOC
+ভারত	I-LOC
+
+জাতিসংঘের	B-LOC
+সদস্য	I-LOC
+দেশ	I-LOC
+
+ডারউইন	B-LOC
+,	I-LOC
+নর্দার্ন	I-LOC
+টেরিটরি	I-LOC
+
+পূর্ব	B-LOC
+খাসি	I-LOC
+পাহাড়	I-LOC
+জেলা	I-LOC
+(	O
+শিলং	B-LOC
+)	O
+
+প্রেস্টন	B-ORG
+নর্থ	I-ORG
+এন্ড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+আবদুল্লাহ	B-PER
+বিন	I-PER
+আবদুল	I-PER
+আজিজ	I-PER
+
+আলফ্রেড	B-PER
+রাসেল	I-PER
+ওয়ালেস	I-PER
+
+এ্যানেট	B-PER
+সুসানা	I-PER
+এ্যাক্রয়েড	I-PER
+বেভারীজ	I-PER
+
+এম	B-PER
+হামিদুল্লাহ	I-PER
+খান	I-PER
+
+কেইম্যান	B-LOC
+দ্বীপপুঞ্জের	I-LOC
+ভূগোল	I-LOC
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+নেভি	I-ORG
+সিলস	I-ORG
+
+এশীয়	B-LOC
+শামুকখোল	I-LOC
+(	O
+''A	O
+.	O
+
+লুই	B-PER
+দ্য	I-PER
+ব্রোয়ি	I-PER
+
+'	O
+''	O
+ফ্রান্স	B-LOC
+''	O
+'	O
+
+জন	B-PER
+ফিট্‌জেরাল্ড	I-PER
+কেনেডি	I-PER
+
+বাগদাদ	B-LOC
+প্রদেশ	I-LOC
+(	O
+بغداد	O
+)	O
+
+খুলনা	B-ORG
+বিভাগ	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+ম্যাজিক	B-ORG
+উইম্যান	I-ORG
+এম	I-ORG
+
+স্বাস্থ্য	B-ORG
+ও	I-ORG
+পরিবার	I-ORG
+কল্যাণ	I-ORG
+মন্ত্রক	I-ORG
+;	O
+
+রবার্ট	B-PER
+এইচ	I-PER
+গডার্ড	I-PER
+
+ল্য	B-ORG
+নুভেল	I-ORG
+অবজের্ভাতর	I-ORG
+
+আব্দুল্লাহ	B-PER
+আল	I-PER
+মামুন	I-PER
+
+পিয়ের	B-PER
+সিমোঁ	I-PER
+লাপ্লাস	I-PER
+
+রানী	B-LOC
+মড	I-LOC
+ভূমি	I-LOC
+
+ওয়ার্নার	B-ORG
+ব্রস	I-ORG
+.	I-ORG
+
+ফুটবল	B-ORG
+ক্লাব	I-ORG
+দু	I-ORG
+পোর্তো	I-ORG
+
+অ্যাপোলো	B-ORG
+(	I-ORG
+মহাশূন্য	I-ORG
+মিশন	I-ORG
+)	I-ORG
+
+আইসিসি	B-LOC
+বিশ্ব	I-LOC
+টুয়েন্টি২০	I-LOC
+
+ইসরায়েলের	B-ORG
+জনসংখ্যার	I-ORG
+পরিসংখ্যান	I-ORG
+
+বাংলাদেশের	B-ORG
+আন্তর্জাতিক	I-ORG
+ক্রিকেট	I-ORG
+স্টেডিয়ামের	I-ORG
+তালিকা	I-ORG
+
+সিমতিয়ের	B-LOC
+দু	I-LOC
+পের	I-LOC
+লাশেজ	I-LOC
+
+'	O
+''	O
+ভারত	B-LOC
+''	O
+'	O
+
+বঙ্গবন্ধু	B-LOC
+জাতীয়	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+ঢাকা	B-LOC
+
+টালসা	B-LOC
+,	I-LOC
+ওকলাহোমা	I-LOC
+
+খান	B-PER
+আতাউর	I-PER
+রহমান	I-PER
+-	O
+
+জোন	B-PER
+অব	I-PER
+আর্ক	I-PER
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+জর্জ-লুই	B-PER
+ল্যক্লের	I-PER
+,	I-PER
+কোঁত	I-PER
+দ্য	I-PER
+বুফোঁ	I-PER
+
+(	B-ORG
+সিক	I-ORG
+)	I-ORG
+নেস	I-ORG
+
+''	O
+(	O
+ব্যাপকভাবে	O
+স্বীকৃত	O
+নয়	O
+,	O
+উত্তর	B-LOC
+আফ্রিকার	I-LOC
+অংশবিশেষ	O
+ও	O
+ইবেরিয়ান	B-LOC
+উপদ্বীপে	I-LOC
+কার্যকর	O
+ছিল	O
+)	O
+''	O
+
+গণতান্ত্রিক	B-LOC
+কঙ্গো	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+ডায়ানা	B-PER
+,	I-PER
+প্রিন্সেস	I-PER
+অব	I-PER
+ওয়েলস	I-PER
+
+রবার্ট	B-PER
+এইচ	I-PER
+গডার্ড	I-PER
+
+সালমান	B-PER
+খান	I-PER
+(	I-PER
+শিক্ষক	I-PER
+)	I-PER
+
+লিলং	B-LOC
+(	I-LOC
+পশ্চিম	I-LOC
+ইম্ফল	I-LOC
+)	I-LOC
+
+নিউটন	B-ORG
+(	I-ORG
+একক	I-ORG
+)	I-ORG
+
+আহমেদাবাদ	B-LOC
+(	O
+১৯৬১–১৯৬৩	O
+)	O
+পানাজি	B-LOC
+(	O
+১৯৬৩–১৯৮৭	O
+)	O
+
+পূর্ব	B-LOC
+মেদিনীপুর	I-LOC
+জেলা	I-LOC
+
+এই	O
+ইউনিয়নটি	O
+রাজশাহী	B-LOC
+বিভাগের	I-LOC
+বগুড়া	B-LOC
+জেলার	I-LOC
+শেরপুর	B-LOC
+উপজেলার	I-LOC
+অন্তর্গত।	O
+
+কোয়া-জুলু	B-LOC
+নাটাল	I-LOC
+প্রদেশ	I-LOC
+
+সেন্ট	B-LOC
+মার্টিন্‌স	I-LOC
+দ্বীপ	I-LOC
+
+শেখ	B-PER
+মুজিবুর	I-PER
+রহমান	I-PER
+
+মির্জা	B-PER
+ফখরুল	I-PER
+ইসলাম	I-PER
+আলমগীর	I-PER
+
+জর্জিয়া	B-LOC
+(	I-LOC
+রাষ্ট্র	I-LOC
+)	I-LOC
+
+মুজফ্‌ফর	B-PER
+আহ্‌মেদ	I-PER
+(	I-PER
+রাজনীতিবিদ	I-PER
+)	I-PER
+
+পোর্ট	B-LOC
+অব	I-LOC
+স্পেন	I-LOC
+
+বাংলাদেশের	B-LOC
+লোক	I-LOC
+সাহিত্য	I-LOC
+
+সেন্ট	B-LOC
+মার্টিন্‌স	I-LOC
+দ্বীপ	I-LOC
+
+উইলিয়াম	B-PER
+নোল্‌স	I-PER
+;	O
+রিওজি	B-PER
+নোয়োরি	I-PER
+;	O
+ব্যারি	B-PER
+শার্পলেস	I-PER
+
+ফরিদপুর	B-ORG
+মেডিকেল	I-ORG
+কলেজ	I-ORG
+;	O
+
+গ্রেট	B-LOC
+ব্যারিয়ার	I-LOC
+রিফ	I-LOC
+
+জে.	B-PER
+আর.	I-PER
+আর.	I-PER
+টলকিন	I-PER
+
+*৭৮৬	O
+-	O
+গ্রাহক	O
+সেবা	O
+(	O
+এয়ারটেল	B-ORG
+)	O
+
+নিউল্যান্ডস	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+কেপ	B-LOC
+টাউন	I-LOC
+
+বাংলাদেশ	B-ORG
+পল্লী	I-ORG
+উন্নয়ন	I-ORG
+একাডেমী	I-ORG
+
+বঙ্গবন্ধু	B-LOC
+জাতীয়	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+ঢাকা	B-LOC
+
+উত্তরে	O
+–	O
+নাটোর	B-LOC
+সদর	I-LOC
+উপজেলা	I-LOC
+,	O
+দক্ষিণে	O
+–	O
+লালপুর	B-LOC
+উপজেলা	I-LOC
+ও	O
+বাঘা	B-LOC
+উপজেলা	I-LOC
+,	O
+পূর্বে	O
+–	O
+বড়াইগ্রাম	B-LOC
+উপজেলা	I-LOC
+এবং	O
+পশ্চিমে	O
+–	O
+চারঘাট	B-LOC
+উপজেলা।	I-LOC
+
+টমাস	B-PER
+আলভা	I-PER
+এডিসন	I-PER
+
+ইকার	B-PER
+ক্যাসিয়াস	I-PER
+(	O
+দ	O
+)	O
+
+'	O
+''	O
+দক্ষিণ	B-LOC
+আফ্রিকা	I-LOC
+''	O
+'	O
+
+মোহনদাস	B-PER
+করমচাঁদ	I-PER
+গান্ধী	I-PER
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+নেভি	I-ORG
+সিলস	I-ORG
+
+আর্মার্ড	B-ORG
+পার্সোনেল	I-ORG
+ক্যারিয়ার	I-ORG
+
+জাতীয়	B-ORG
+পার্টি	I-ORG
+(	I-ORG
+মঞ্জু	I-ORG
+)	I-ORG
+
+উজ্জ্বল	B-LOC
+প্যারাবন	I-LOC
+সাপ	I-LOC
+
+'	O
+''	O
+ইঞ্চিয়ন	B-LOC
+''	O
+'	O
+
+চার্লস	B-PER
+থমসন	I-PER
+রিস	I-PER
+উইলসন	I-PER
+
+আলফ্রেড	B-PER
+মার্শাল	I-PER
+সর্বপ্রথম	O
+এই	O
+মতবাদের	O
+প্রচলন	O
+করেন।	O
+তার	O
+মতে	O
+,	O
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+মেরিন	I-ORG
+কর্পস	I-ORG
+
+টার্কস্‌	B-LOC
+ও	I-LOC
+কেইকোস	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+আন্তর্জাতিক	B-ORG
+একক	I-ORG
+পদ্ধতি	I-ORG
+
+বসনিয়া	B-LOC
+ও	I-LOC
+হার্জেগোভিনা	I-LOC
+
+'	O
+''	O
+স্যাম	B-PER
+বিলিংস	I-PER
+''	O
+'	O
+
+জাতিসংঘের	B-LOC
+সদস্য	I-LOC
+দেশ	I-LOC
+
+কার্বনডেল	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+কিরকোফের	B-ORG
+বর্তনীর	I-ORG
+সমীকরণসমূহ	I-ORG
+
+ফ্লোরেন্স	B-ORG
+এ্যান্ড	I-ORG
+দ্য	I-ORG
+মেসিন	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+রাশিয়ার	B-PER
+দ্বিতীয়	I-PER
+নিকোলাস	I-PER
+
+আবু	B-PER
+মুসআব	I-PER
+আজ-জারকাবি	I-PER
+
+রাফায়েল	B-PER
+পোপ	B-LOC
+২য়	O
+জুলিয়াসের	O
+নির্দেশে	O
+এই	O
+ক্যানভাসটি	O
+করেছিলেন	O
+তার	O
+আবাস	O
+কক্ষে।	O
+
+জর্জিয়া	B-LOC
+(	I-LOC
+অঙ্গরাজ্য	I-LOC
+)	I-LOC
+
+সুদান	B-LOC
+(	I-LOC
+অঞ্চল	I-LOC
+)	I-LOC
+
+ঢাকা	B-ORG
+বিশ্ববিদ্যালয়	I-ORG
+,	O
+আগামী	B-ORG
+প্রকাশনী	I-ORG
+
+ন্যাশনাল	B-ORG
+জিওগ্রাফিক	I-ORG
+সোসাইটি	I-ORG
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+আবুধাবি	B-LOC
+,	O
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+লি	B-ORG
+স্ট্র্যাসবার্গ	I-ORG
+থিয়েটার	I-ORG
+অ্যান্ড	I-ORG
+ফিল্ম	I-ORG
+ইন্সটিটিউট	I-ORG
+
+মীর	B-PER
+মশাররফ	I-PER
+হোসেন	I-PER
+
+ইছাপুর	B-LOC
+প্রতিরক্ষা	I-LOC
+এস্টেট	I-LOC
+
+পঞ্চম	B-PER
+চার্লস	I-PER
+,	I-PER
+পবিত্র	I-PER
+রোমান	I-PER
+সম্রাট	I-PER
+
+প্‌নম	B-LOC
+পেন	I-LOC
+(	O
+'	O
+''	O
+'	O
+)	O
+
+'	O
+''	O
+হিন্দি	B-LOC
+ভাষা	I-LOC
+''	O
+'	O
+
+পাল্লেকেলে	B-LOC
+আন্তর্জাতিক	I-LOC
+ক্রিকেট	I-LOC
+স্টেডিয়াম	I-LOC
+
+পাতি	B-LOC
+তিলিহাঁস	I-LOC
+(	O
+''Anas	O
+crecca	O
+''	O
+)	O
+
+এম-১২২	B-ORG
+(	I-ORG
+মিশিগান	I-ORG
+হাইওয়ে	I-ORG
+)	I-ORG
+
+মধ্য	B-LOC
+আফ্রিকান	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+ব্রিটিশ	B-ORG
+ইস্ট	I-ORG
+ইন্ডিয়া	I-ORG
+কোম্পানি	I-ORG
+
+ইউনিভার্সিটি	B-ORG
+অব	I-ORG
+ডেভলপমেন্ট	I-ORG
+অল্টারনেটিভ	I-ORG
+
+ইউলিসিস	B-PER
+এস.	I-PER
+গ্রান্ট	I-PER
+
+'	O
+''	O
+কোরে	B-PER
+অ্যান্ডারসন	I-PER
+''	O
+'	O
+''	O
+
+ডায়ানা	B-PER
+,	I-PER
+প্রিন্সেস	I-PER
+অব	I-PER
+ওয়েলস	I-PER
+
+হারারে	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+,	O
+হারারে	B-LOC
+
+হ্যারি	B-PER
+এস.	I-PER
+ট্রুম্যান	I-PER
+
+হোসেন	B-PER
+শহীদ	I-PER
+সোহ্‌রাওয়ার্দী	I-PER
+
+সাঁউ	B-LOC
+তুমি	I-LOC
+ও	I-LOC
+প্রিন্সিপি	I-LOC
+
+এই	O
+ইউনিয়নটি	O
+ঢাকা	B-LOC
+বিভাগের	I-LOC
+ঢাকা	B-LOC
+জেলার	I-LOC
+অন্তর্গত	O
+ধামরাই	B-LOC
+উপজেলায়	I-LOC
+অবস্থিত।	O
+
+উইলিয়াম	B-PER
+বাটলার	I-PER
+ইয়েটস	I-PER
+
+ত্রিনিদাদ	B-ORG
+ও	I-ORG
+টোবাগো	I-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+সর্বভারতীয়	B-ORG
+আন্না	I-ORG
+দ্রাবিড়	I-ORG
+মুনেত্র	I-ORG
+কড়গম	I-ORG
+
+মতিউর	B-PER
+রহমান	I-PER
+(	I-PER
+বীর	I-PER
+শ্রেষ্ঠ	I-PER
+)	I-PER
+
+জলপাইরঙা	B-LOC
+সাগর	I-LOC
+কাছিম	I-LOC
+
+**	O
+রাবাত	B-LOC
+(	O
+দূতাবাস	O
+)	O
+
+ইউনাইটেড	B-ORG
+লিবারেশন	I-ORG
+ফ্রন্ট	I-ORG
+অব	I-ORG
+আসাম	I-ORG
+
+মুহম্মদ	B-PER
+জাফর	I-PER
+ইকবাল	I-PER
+
+ওয়েস্ট	B-ORG
+ইন্ডিজ	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+পাউন্ড	B-ORG
+(	I-ORG
+ভর	I-ORG
+)	I-ORG
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+মেরিন	I-ORG
+কর্পস	I-ORG
+
+মিরপুর	B-LOC
+মডেল	I-LOC
+থানা	I-LOC
+
+ইউনিভার্সিটি	B-ORG
+অব	I-ORG
+ইলিনয়	I-ORG
+অ্যাট	I-ORG
+আর্বানা-শ্যাম্পেইন	I-ORG
+
+সান্ডারল্যান্ড	B-ORG
+এসোসিয়েশন	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+কুয়েত	B-LOC
+(	O
+৭.১১	O
+%	O
+)	O
+
+আবদুল	B-PER
+করিম	I-PER
+খন্দকার	I-PER
+
+প্রসেনজিৎ	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+পায়েল	B-PER
+সরকার	I-PER
+
+জর্জ	B-PER
+ডব্লিউ.	I-PER
+বুশ	I-PER
+
+জলপাইরঙা	B-LOC
+সাগর	I-LOC
+কাছিম	I-LOC
+
+প্রথম	B-PER
+উইলিয়াম	I-PER
+(	I-PER
+ইংল্যান্ড	I-PER
+)	I-PER
+
+বৃহত্তর	B-LOC
+কলকাতার	I-LOC
+নগরাঞ্চলগুলির	I-LOC
+তালিকা	I-LOC
+
+দি	B-ORG
+ইউনিভার্স	I-ORG
+(	I-ORG
+টিভি	I-ORG
+সিরিজ	I-ORG
+)	I-ORG
+
+বঙ্গবন্ধু	B-LOC
+জাতীয়	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+ঢাকা	B-LOC
+
+ব্রাজিল	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+মোহনদাস	B-PER
+করমচাঁদ	I-PER
+গান্ধী	I-PER
+
+কেলহাউরি	B-LOC
+(	I-LOC
+চাচাই	I-LOC
+)	I-LOC
+
+পূর্ব	B-LOC
+কোরিয়ার	I-LOC
+উপসাগর	I-LOC
+
+বেলেঁ	B-LOC
+(	I-LOC
+ব্রাজিল	I-LOC
+)	I-LOC
+
+ক্রিস	B-PER
+ইভানস	I-PER
+(	I-PER
+অভিনেতা	I-PER
+)	I-PER
+
+□	O
+রাশিয়া	B-LOC
+বলতে	O
+এখানে	O
+বর্তমান	O
+রাশিয়া	B-LOC
+ও	O
+পুরাতন	O
+রুশ	B-LOC
+সাম্রাজ্য	I-LOC
+উভয়ের	O
+একত্রিত	O
+পরিসংখ্যান	O
+প্রদান	O
+করা	O
+হল।	O
+
+টালাহাসি	B-LOC
+,	I-LOC
+ফ্লোরিডা	I-LOC
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্র	I-ORG
+জাতীয়	I-ORG
+পুরুষ	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+খালেদ	B-PER
+মাহমুদ	I-PER
+সুজন	I-PER
+
+আয়াশ	B-PER
+ইবনে	I-PER
+আবি	I-PER
+রাবিআহ	I-PER
+
+প্রতিভা	B-PER
+দেবীসিংহ	I-PER
+পাটিল	I-PER
+
+কিরকোফের	B-ORG
+বর্তনীর	I-ORG
+সমীকরণসমূহ	I-ORG
+
+রবার্ট	B-PER
+এ	I-PER
+হাইনলাইন	I-PER
+
+বেভারলি	B-LOC
+হিলস	I-LOC
+,	I-LOC
+ক্যালিফোর্নিয়া	I-LOC
+
+ক্যামব্রিজ	B-ORG
+ইউনিভার্সিটি	I-ORG
+প্রেস	I-ORG
+
+কাস্তেলাউ	B-ORG
+(	I-ORG
+সিরা	I-ORG
+)	I-ORG
+
+``	O
+নামের	O
+একটি	O
+ডিভিডি	B-ORG
+প্রকাশ	O
+করেন।	O
+
+ভারতীয়	B-ORG
+রিজার্ভ	I-ORG
+ব্যাংক	I-ORG
+
+ব্রিটিশ	B-ORG
+ইস্ট	I-ORG
+ইন্ডিয়া	I-ORG
+কোম্পানি	I-ORG
+
+ডেন্টন	B-LOC
+,	I-LOC
+টেক্সাস	I-LOC
+
+অস্ট্রেলিয়া	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+সিংহলীজ	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+গ্রাউন্ড	I-LOC
+
+জঁ	B-PER
+রোবের	I-PER
+আরগঁ	I-PER
+
+পূর্ব	B-LOC
+আজারবাইজান	I-LOC
+প্রদেশ	I-LOC
+
+আমলা	B-LOC
+(	I-LOC
+মধ্য	I-LOC
+প্রদেশ	I-LOC
+)	I-LOC
+
+ডেভিড	B-PER
+হারবার্ট	I-PER
+লরেন্স	I-PER
+
+খুলনা	B-ORG
+মেডিকেল	I-ORG
+কলেজ	I-ORG
+,	O
+
+ইয়োহানেস	B-PER
+ডিডেরিক	I-PER
+ফান	I-PER
+ডার	I-PER
+ভাল্‌স	I-PER
+
+সিওল	B-LOC
+,	O
+দক্ষিণ	B-LOC
+কোরিয়া	I-LOC
+
+সেলিম	B-PER
+আল	I-PER
+দীন	I-PER
+
+বেন	B-ORG
+১০	I-ORG
+(	I-ORG
+টিভি	I-ORG
+ধারাবাহিক	I-ORG
+)	I-ORG
+
+''	O
+নাগরপুর	B-LOC
+উপজেলা	I-LOC
+''	O
+'	O
+
+Review	O
+-	O
+রজার	B-PER
+ইবার্ট	I-PER
+
+মিগনন	B-PER
+দু	I-PER
+প্রিজ	I-PER
+
+জমিয়াতুল	B-ORG
+ফালাহ	I-ORG
+মসজিদ	I-ORG
+
+রুডল্‌ফ	B-PER
+ক্রিস্টোফ	I-PER
+ইউকেন	I-PER
+
+ইসলামিক	B-ORG
+ইউনিভার্সিটি	I-ORG
+অব	I-ORG
+টেকনোলজি	I-ORG
+
+এফবিআই	B-PER
+শীর্ষ	I-PER
+দশ	I-PER
+ফেরারী	I-PER
+
+প্যাস্কেল	B-ORG
+(	I-ORG
+একক	I-ORG
+)	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+মুষ্টিযুদ্ধ	I-ORG
+–	I-ORG
+লাইটওয়েট	I-ORG
+
+(	O
+1849	O
+)	O
+-	O
+কলম্বিয়া	B-LOC
+,	O
+ইকুয়েডর	B-LOC
+
+সিঙ্গাপুরের	B-ORG
+জাতীয়	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+জর্জ	B-PER
+বেথুন	I-PER
+অ্যাডামস	I-PER
+
+দ্য	B-ORG
+বিগ	I-ORG
+ব্যাং	I-ORG
+থিওরি	I-ORG
+
+ওসামা	B-PER
+বিন	I-PER
+লাদেন	I-PER
+
+জায়েদ	B-PER
+স্পোর্টস	I-PER
+সিটি	I-PER
+স্টেডিয়াম	I-PER
+,	O
+আবুধাবি	B-LOC
+
+নিউ	B-LOC
+সাউথ	I-LOC
+ওয়েল্স	I-LOC
+
+আফ্রিকান	B-ORG
+ন্যাশনাল	I-ORG
+কংগ্রেস	I-ORG
+
+ফরাসি	B-ORG
+ইস্ট	I-ORG
+ইন্ডিয়া	I-ORG
+কোম্পানি	I-ORG
+
+''আবীরের	O
+মা	O
+''	O
+চরিত্রে	O
+লাবণী	B-PER
+সরকার	I-PER
+
+ভেনেজুয়েলার	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+ওয়েস্ট	B-LOC
+ইন্ডিজ	I-LOC
+ফেডারেশন	I-LOC
+
+উত্তাল	O
+হয়েছিল।	O
+পশ্চিমবঙ্গেও	B-LOC
+এর	O
+প্রভাবে	O
+মাঝারি	O
+থেকে	O
+ভারী	O
+বৃষ্টিপাত	O
+ঘটেছিল।	O
+
+ইউনিভার্সিটি	B-ORG
+অব	I-ORG
+ইলিনয়	I-ORG
+অ্যাট	I-ORG
+আর্বানা-শ্যাম্পেইন	I-ORG
+
+জাপান	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+হো	B-LOC
+চি	I-LOC
+মিন	I-LOC
+সিটি	I-LOC
+
+ইন্ডিয়ান	B-ORG
+সার্টিফিকেট	I-ORG
+অফ	I-ORG
+সেকেন্ডারি	I-ORG
+এডুকেশন	I-ORG
+
+হো	B-LOC
+চি	I-LOC
+মিন	I-LOC
+সিটি	I-LOC
+
+উইলিয়াম	B-PER
+হেনরি	I-PER
+হ্যারিসন	I-PER
+
+অ্যাংকারিজ	B-LOC
+,	I-LOC
+আলাস্কা	I-LOC
+
+কাশী	B-ORG
+হিন্দু	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+বাবিল	B-LOC
+প্রদেশ	I-LOC
+(	O
+بابل	O
+)	O
+
+'	O
+''	O
+এসি	B-ORG
+মিলান	I-ORG
+''	O
+'	O
+
+লুডভিগ	B-PER
+ফান	I-PER
+বেটোফেন	I-PER
+
+চার	B-ORG
+বর্ণ	I-ORG
+উপপাদ্য	I-ORG
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+নবগ্রাম	B-LOC
+(	I-LOC
+পুরুলিয়া	I-LOC
+)	I-LOC
+
+কায়লানি	O
+সিঙ্গাপুরে	B-LOC
+জন্মালেও	O
+সে	O
+তাঁর	O
+বাল্যজীবন	O
+মার্কিন	B-LOC
+যুক্তরাষ্ট্রের	I-LOC
+,	O
+ম্যাসাচুসেট্‌সে	B-LOC
+অতিবাহিত	O
+করেন।	O
+
+বাংলাদেশের	B-ORG
+সাধারণ	I-ORG
+নির্বাচন	I-ORG
+,	I-ORG
+১৯৮৮	I-ORG
+
+খান্ড	B-LOC
+(	I-LOC
+বান্সগর	I-LOC
+)	I-LOC
+
+মার্ক	B-PER
+ডেভিড	I-PER
+চ্যাপম্যান	I-PER
+
+অর্থহীন	B-ORG
+(	I-ORG
+ব্যান্ড	I-ORG
+দল	I-ORG
+)	I-ORG
+
+পাল্লেকেলে	B-LOC
+আন্তর্জাতিক	I-LOC
+ক্রিকেট	I-LOC
+স্টেডিয়াম	I-LOC
+
+লর্ড	B-PER
+লুই	I-PER
+মাউন্টব্যাটেন	I-PER
+
+সেপ্টেম্বর	B-ORG
+১১	I-ORG
+,	I-ORG
+২০০১	I-ORG
+এর	I-ORG
+হামলা	I-ORG
+
+জন	B-PER
+রবার্ট	I-PER
+শ্রিফার	I-PER
+
+মহেশ	B-PER
+মাঞ্জরেকার	I-PER
+-	O
+হারিয়া	O
+,	O
+রাজোর	O
+পিতা	O
+
+টালাহাসি	B-LOC
+,	I-LOC
+ফ্লোরিডা	I-LOC
+
+রাজশাহী	B-ORG
+কলেজিয়েট	I-ORG
+স্কুল	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+সাঁতার	I-ORG
+–	I-ORG
+পুরুষদের	I-ORG
+৪০০	I-ORG
+মিটার	I-ORG
+ফ্রিস্টাইল	I-ORG
+
+সেন্ট	B-LOC
+মার্টিন্‌স	I-LOC
+দ্বীপ	I-LOC
+
+জন	B-PER
+হর্টন	I-PER
+কনওয়ে	I-PER
+
+এই	O
+ইউনিয়নটি	O
+চট্টগ্রাম	B-LOC
+বিভাগের	I-LOC
+চট্টগ্রাম	B-LOC
+জেলার	I-LOC
+পটিয়া	B-LOC
+উপজেলার	I-LOC
+কর্ণফুলী	B-LOC
+থানার	I-LOC
+অন্তর্গত।	O
+এর	O
+আয়তন	O
+২৫৬০	O
+একর	O
+(	O
+১০.৩৬	O
+বর্গ	O
+কিলোমিটার	O
+)	O
+।	O
+
+সেন্ট্রাল	B-ORG
+ইন্টেলিজেন্স	I-ORG
+এজেন্সি	I-ORG
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্র	I-ORG
+জাতীয়	I-ORG
+পুরুষ	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+ভৌগোলিক	B-ORG
+আয়তন	I-ORG
+অনুসারে	I-ORG
+রাষ্ট্রসমূহের	I-ORG
+তালিকা	I-ORG
+
+গ্র্যান্ডমাস্টার	B-PER
+(	I-PER
+দাবা	I-PER
+)	I-PER
+
+অ্যাভাটর	B-ORG
+:	I-ORG
+দ্য	I-ORG
+লাস্ট	I-ORG
+এয়ারবেন্ডার	I-ORG
+
+ফ্রিড‌রিশ	B-PER
+ফন	I-PER
+হায়ক	I-PER
+
+প্যাসারন	O
+,	O
+পন্তেভেদ্রা	O
+,	O
+স্পেন	B-LOC
+
+আবু	B-PER
+মুসআব	I-PER
+আজ-জারকাবি	I-PER
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+ফিনিক্স	B-LOC
+,	I-LOC
+অ্যারিজোনা	I-LOC
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+শেখ	B-LOC
+আবু	I-LOC
+নাসের	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+খুলনা	B-LOC
+
+রেসো	B-ORG
+এক্সপ্রেস	I-ORG
+রেজিওনাল	I-ORG
+
+অনরে	B-PER
+দ্য	I-PER
+বালজাক	I-PER
+
+রিও	B-LOC
+দি	I-LOC
+জেনেরিও	I-LOC
+
+ক্যান্টারবেরি	B-LOC
+,	I-LOC
+নিউ	I-LOC
+সাউথ	I-LOC
+ওয়েল্‌স	I-LOC
+
+জর্জ-লুই	B-PER
+ল্যক্লের	I-PER
+,	I-PER
+কোঁত	I-PER
+দ্য	I-PER
+বুফোঁ	I-PER
+
+সোহম	B-PER
+চক্রবর্তী	I-PER
+-	O
+রঘু	O
+
+ইয়াকব	B-ORG
+ভ্যান	I-ORG
+রাইস্‌ডেল	I-ORG
+
+নিউজিল্যান্ড	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+সরলা	B-PER
+দেবী	I-PER
+চৌধুরানী	I-PER
+
+রেডিং	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+রবার্ট	B-PER
+ডি	I-PER
+নিরো	I-PER
+
+উইলিয়াম	B-PER
+হেনরি	I-PER
+হ্যারিসন	I-PER
+
+এভার্টন	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+চাঁদপুর	B-LOC
+সদর	I-LOC
+উপজেলা	I-LOC
+এবং	O
+হাইমচর	B-LOC
+উপজেলা	I-LOC
+
+নাইজেরিয়া	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+দ্য	B-ORG
+নিউ	I-ORG
+ইয়র্ক	I-ORG
+টাইমস	I-ORG
+
+c.	O
+haemorrhousus	O
+''	O
+,	O
+শ্রীলঙ্কা	B-LOC
+
+কিউবার	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+ছয়	B-ORG
+দফা	I-ORG
+আন্দোলন	I-ORG
+
+অং	B-PER
+সান	I-PER
+সু	I-PER
+চি	I-PER
+
+প্রফেসর	B-PER
+এ.	I-PER
+এফ.	I-PER
+সালাহ্উদ্দীন	I-PER
+আহমদ	I-PER
+
+দ্য	B-ORG
+নিউ	I-ORG
+ইয়র্ক	I-ORG
+টাইমস	I-ORG
+
+'	O
+''	O
+জাকির	B-PER
+নায়েক	I-PER
+''	O
+'	O
+,	O
+(	O
+সভাপতি	O
+,	O
+আইআরএফ	O
+)	O
+
+রাজা]]	O
+জিগমে	B-PER
+খেসার	I-PER
+নামগিয়েল	I-PER
+ওয়াংচুক	I-PER
+
+বেল	B-LOC
+(	I-LOC
+ফল	I-LOC
+)	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+টটেনহ্যাম	B-ORG
+হটস্পার	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+কালীগঞ্জ	B-LOC
+উপজেলা	I-LOC
+,	I-LOC
+লালমনিরহাট।	I-LOC
+
+রুশীয়	B-LOC
+সোভিয়েত	I-LOC
+যুক্তরাষ্ট্রীয়	I-LOC
+সমাজতান্ত্রিক	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+এইচ	B-PER
+জি	I-PER
+ওয়েলস	I-PER
+
+জহুর	B-LOC
+আহমেদ	I-LOC
+চৌধুরী	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+চট্টগ্রাম	B-LOC
+
+একীকৃত	B-ORG
+নেপাল	I-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+(	I-ORG
+মাওবাদী	I-ORG
+)	I-ORG
+
+এটি	O
+লোহার	O
+মতো	O
+কালো	O
+অথবা	O
+গাঢ়	O
+ধূসর	O
+বর্ণের	O
+একটি	O
+পদার্থ।	B-LOC
+
+ডোয়াইট	B-PER
+ডি.	I-PER
+আইজেনহাওয়ার	I-PER
+
+কোহগিলুইয়ে	B-LOC
+ও	I-LOC
+বুইয়ার	I-LOC
+আহমাদ	I-LOC
+প্রদেশ	I-LOC
+
+মাল্টি	B-ORG
+মিডিয়া	I-ORG
+কার্ড	I-ORG
+
+ভোল্‌ফগাংক্‌	B-PER
+আমাডেয়ুস	I-PER
+মোৎসার্ট	I-PER
+
+এস্তাদিও	B-LOC
+দো	I-LOC
+মারাকানা	I-LOC
+
+বাংলা	B-PER
+ভাষা	I-PER
+আন্দোলন	I-PER
+
+লুক্সেমবুর্গ	B-ORG
+(	I-ORG
+শহর	I-ORG
+)	I-ORG
+
+সান্তিয়াগো	B-LOC
+,	I-LOC
+চিলি	I-LOC
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+'	O
+''	O
+এবং	O
+এই	O
+নিরাপদ	O
+(	O
+মক্কা	B-LOC
+)	O
+নগরীর।	O
+
+ডি	B-ORG
+পি	I-ORG
+আই	I-ORG
+
+কমলা	B-ORG
+(	I-ORG
+রঙ	I-ORG
+)	I-ORG
+
+রাশিয়ার	B-PER
+প্রথম	I-PER
+পিটার	I-PER
+
+===	O
+প্রিমিয়ার	B-ORG
+লীগ	I-ORG
+গোলদাতা	O
+===	O
+
+সালমান	B-PER
+আল	I-PER
+ফারিসী	I-PER
+
+হুয়ান	B-PER
+সেবাস্তিয়ান	I-PER
+ভেরন	I-PER
+
+'	O
+''	O
+হুয়ান	B-PER
+রোমান	I-PER
+রিকেল্‌মে	I-PER
+(	O
+১৯৯৭–২০০৮	O
+)	O
+'	O
+''	O
+
+উত্তর	B-LOC
+পশ্চিম	I-LOC
+প্রদেশ	I-LOC
+(	I-LOC
+দক্ষিণ	I-LOC
+আফ্রিকা	I-LOC
+)	I-LOC
+
+জর্জিয়া	B-LOC
+(	I-LOC
+রাষ্ট্র	I-LOC
+)	I-LOC
+
+উত্তর	B-LOC
+খোরসন	I-LOC
+প্রদেশ	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+বড়গাঁও	B-LOC
+(	I-LOC
+তিকমগড়	I-LOC
+)	I-LOC
+
+'	O
+''	O
+শ্যানন	B-PER
+গ্যাব্রিয়েল	I-PER
+''	O
+'	O
+
+আবদুস	B-PER
+সালাম	I-PER
+(	I-PER
+সাংবাদিক	I-PER
+)	I-PER
+
+পাকিস্তান	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+মোস্তফা	B-PER
+কামাল	I-PER
+আতাতুর্ক	I-PER
+
+দ্য	B-PER
+গ্রেট	I-PER
+খালি	I-PER
+
+হিন্দুস্তানি	B-ORG
+শাস্ত্রীয়	I-ORG
+সংগীত	I-ORG
+
+বিশ্ব	B-ORG
+ঐতিহ্যবাহী	I-ORG
+স্থান	I-ORG
+
+ব্লুমিংটন	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+ইউনিভার্সিটি	B-ORG
+অফ	I-ORG
+সাউথ	I-ORG
+ক্যারোলাইনা	I-ORG
+
+ফিনিক্স	B-LOC
+,	I-LOC
+অ্যারিজোনা	I-LOC
+
+কেইম্যান	B-LOC
+দ্বীপপুঞ্জের	I-LOC
+ভূগোল	I-LOC
+
+মুহাম্মদ	B-PER
+নজিব	I-PER
+আর-রুবাই	I-PER
+
+দি	B-ORG
+ইউনিভার্স	I-ORG
+(	I-ORG
+টিভি	I-ORG
+সিরিজ	I-ORG
+)	I-ORG
+
+নেছারাবাদ	B-LOC
+(	I-LOC
+স্বরূপকাঠি	I-LOC
+)	I-LOC
+উপজেলা	I-LOC
+
+'	O
+''	O
+শ্রীশৈল	O
+''	O
+'	O
+বাংলাদেশের	B-LOC
+সিলেট	B-LOC
+শহরের	O
+৩	O
+কি.মি	O
+.	O
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+মেরিন	I-ORG
+কর্পস	I-ORG
+
+১৯৭১	B-ORG
+বাংলাদেশী	I-ORG
+বুদ্ধিজীবী	I-ORG
+হত্যাকাণ্ড	I-ORG
+
+গঠনকৌশলের	O
+দিক	O
+দিয়ে	O
+সিদ্ধেশ্বরীর	O
+মন্দিরটি	O
+অত্যন্ত	O
+ঐতিহাসিক।	O
+মন্দিরটির	O
+কেন্দ্রে	O
+মা	B-ORG
+কালীর	I-ORG
+মূর্তি	O
+রয়েছে	O
+এবং	O
+সুন্দর	O
+স্তম্ভ	O
+দ্বারা	O
+মন্দিরটি	O
+সম্প্রসারণ	O
+করা	O
+হয়েছে।	O
+
+বার্মিংহ্যাম	B-ORG
+সিটি	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+দাদরা	B-LOC
+ও	I-LOC
+নগর	I-LOC
+হাভেলি	I-LOC
+
+নিউ	B-LOC
+সাউথ	I-LOC
+ওয়েল্স	I-LOC
+
+জম্মু	B-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+
+আন্তর্জাতিক	B-ORG
+জ্যোতির্বিজ্ঞান	I-ORG
+বর্ষ	I-ORG
+
+শাহরুখ	B-PER
+খান	I-PER
+-	O
+কথক	O
+(	O
+কন্ঠ	O
+)	O
+
+শেরপুর	B-LOC
+(	I-LOC
+পশ্চিমবঙ্গ	I-LOC
+)	I-LOC
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+এবিএম	B-PER
+মহিউদ্দীন	I-PER
+চৌধুরী	I-PER
+
+জর্জ	B-PER
+রবার্ট	I-PER
+গ্রে	I-PER
+
+ফিফা	B-ORG
+বিশ্ব	I-ORG
+র‌্যাঙ্কিং	I-ORG
+
+আবদুল	B-PER
+আজিজ	I-PER
+ইবনে	I-PER
+সৌদ	I-PER
+
+এয়ার	B-ORG
+ট্রেন	I-ORG
+নিওয়ার্ক	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+সেন্ট	B-LOC
+ভিনসেন্ট	I-LOC
+ও	I-LOC
+গ্রেনাডাইন	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+আমেরিকা	B-ORG
+বাংলাদেশ	I-ORG
+ইউনিভার্সিটি	I-ORG
+
+হো	B-PER
+চি	I-PER
+মিন	I-PER
+
+ময়দান	B-LOC
+,	I-LOC
+কলকাতা	I-LOC
+
+পিয়ের	B-PER
+সিমোঁ	I-PER
+লাপ্লাস	I-PER
+
+উত্তর	B-ORG
+আমেরিকা	I-ORG
+-	O
+২	O
+
+আস্তানা	B-LOC
+(	O
+'	O
+''	O
+'	O
+)	O
+
+বিমান	B-ORG
+বাংলাদেশ	I-ORG
+এয়ারলাইন্স	I-ORG
+
+ব্রিটিশ	B-ORG
+একাডেমি	I-ORG
+অব	I-ORG
+ফিল্ম	I-ORG
+অ্যান্ড	I-ORG
+টেলিভিশন	I-ORG
+আর্টস	I-ORG
+
+ব্লুমিংটন	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+ওয়ানওয়াদি	B-LOC
+(	I-LOC
+সদাশিবগড়	I-LOC
+)	I-LOC
+
+ইমতিয়াজ	B-PER
+আলি	I-PER
+তাজ	I-PER
+
+মহম্মদ	B-PER
+হামিদ	I-PER
+আনসারি	I-PER
+
+সত্যজিৎ	B-ORG
+রায়	I-ORG
+চলচ্চিত্র	I-ORG
+ও	I-ORG
+টেলিভিশন	I-ORG
+ইনস্টিটিউট	I-ORG
+
+সিমতিয়ের	B-LOC
+দু	I-LOC
+পের	I-LOC
+লাশেজ	I-LOC
+
+আন্তর্জাতিক	B-ORG
+একক	I-ORG
+পদ্ধতি	I-ORG
+
+ফ্রিড‌রিশ	B-PER
+ফন	I-PER
+হায়ক	I-PER
+
+অ্যান্থনি	B-PER
+ভন	I-PER
+লিউয়েনহুক	I-PER
+
+**	O
+উদয়ী	B-LOC
+পাকড়াধনেশ	I-LOC
+''Anthracoceros	O
+albirostris	O
+''	O
+
+ফ্লোরিডার	B-ORG
+হিন্দু	I-ORG
+মন্দির	I-ORG
+,	I-ORG
+টাম্পা	I-ORG
+
+আদর্শ	B-ORG
+গ্যাস	I-ORG
+সূত্র	I-ORG
+
+ইউনিভার্সিটি	B-ORG
+অব	I-ORG
+ক্যালিফোর্নিয়া	I-ORG
+,	I-ORG
+সান	I-ORG
+ডিয়েগো	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+আবুল	B-PER
+পাকির	I-PER
+জয়নুল-আবেদিন	I-PER
+আব্দুল	I-PER
+কালাম	I-PER
+
+শেরে	B-ORG
+বাংলা	I-ORG
+কৃষি	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+নেভি	I-ORG
+সিলস	I-ORG
+
+ইউএসসি	B-ORG
+স্কুল	I-ORG
+অফ	I-ORG
+সিনেম্যাটিক	I-ORG
+আর্টস	I-ORG
+
+আরকোলা	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+জেমস	B-PER
+এডওয়ার্ড	I-PER
+রথম্যান	I-PER
+
+রাশিয়ার	B-PER
+প্রথম	I-PER
+পিটার	I-PER
+
+জ্যাক	B-PER
+দ্য	I-PER
+রিপার	I-PER
+
+হোর্হে	B-PER
+লুইস	I-PER
+বোর্হেস	I-PER
+
+সেন্ট	B-LOC
+কিট্‌স	I-LOC
+ও	I-LOC
+নেভিস	I-LOC
+
+জন	B-PER
+ফিট্‌জেরাল্ড	I-PER
+কেনেডি	I-PER
+
+লাভ	B-ORG
+রান্‌স	I-ORG
+ব্লাইন্ড	I-ORG
+(	I-ORG
+এলআরবি	I-ORG
+)	I-ORG
+
+চেন	B-PER
+নিং	I-PER
+ইয়াং	I-PER
+
+১০০	B-ORG
+ডলারে	I-ORG
+ল্যাপটপ	I-ORG
+
+শ্যামজী	B-PER
+কৃষ্ণ	I-PER
+বর্মা	I-PER
+
+বাঙালি	B-ORG
+হিন্দু	I-ORG
+বিবাহ	I-ORG
+
+রিও	B-LOC
+দি	I-LOC
+জেনেরিও	I-LOC
+
+আবু	B-ORG
+রায়হান	I-ORG
+আল	I-ORG
+বিরুনি	I-ORG
+
+অস্ট্রেলিয়া	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+চতুর্দশ	B-PER
+দলাই	I-PER
+লামা	I-PER
+
+কলকাতা	B-LOC
+উত্তর	I-LOC
+পূর্ব	I-LOC
+লোকসভা	I-LOC
+কেন্দ্র	I-LOC
+
+স্যান	B-LOC
+হোসে	I-LOC
+,	I-LOC
+কোস্টা	I-LOC
+রিকা	I-LOC
+
+কাঙ্গরা]]	O
+(	O
+হিমাচল	B-LOC
+প্রদেশ	I-LOC
+)	O
+
+সিমোন	B-PER
+দ্য	I-PER
+বোভোয়ার	I-PER
+
+আলিপুরদুয়ার	B-LOC
+লোকসভা	I-LOC
+কেন্দ্র	I-LOC
+
+রবার্ট	B-PER
+এ	I-PER
+হাইনলাইন	I-PER
+
+চিল্ড্রেন	B-ORG
+অব	I-ORG
+বডম	I-ORG
+
+উত্তর	B-ORG
+প্রদেশের	I-ORG
+মুখ্যমন্ত্রীগণের	I-ORG
+তালিকা	I-ORG
+
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+রালফ	B-PER
+ওয়াল্ডো	I-PER
+এমারসন	I-PER
+
+জর্জ	B-PER
+ডব্লিউ.	I-PER
+বুশ	I-PER
+
+ভারতের	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+(	I-ORG
+মার্ক্সবাদী	I-ORG
+)	I-ORG
+
+ফেড্রিখ	B-PER
+উইন্সল	I-PER
+টেইলর	I-PER
+
+জন	B-PER
+ফিট্‌জেরাল্ড	I-PER
+কেনেডি	I-PER
+
+কোরিয়ার	B-ORG
+ওয়ার্কার্স	I-ORG
+পার্টি	I-ORG
+
+অ্যাংকারিজ	B-LOC
+,	I-LOC
+আলাস্কা	I-LOC
+
+১৯৯২	B-ORG
+ক্রিকেট	I-ORG
+বিশ্বকাপ	I-ORG
+ফাইনাল	I-ORG
+
+সোভিয়েত	B-ORG
+ইউনিয়নের	I-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+পিয়ের	B-PER
+সিমোঁ	I-PER
+লাপ্লাস	I-PER
+
+মাওলানা	B-PER
+মুহাম্মদ	I-PER
+আলি	I-PER
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+ইয়োহান	B-PER
+জেবাস্টিয়ান	I-PER
+বাখ	I-PER
+
+লিওনার্দো	B-PER
+দা	I-PER
+ভিঞ্চি	I-PER
+
+বঙ্গবন্ধু	B-LOC
+জাতীয়	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+ঢাকা	B-LOC
+
+মার্কিন	B-LOC
+যুক্তরাষ্ট্র	I-LOC
+তার	O
+নিরপেক্ষতা	O
+ঘোষণা	O
+করে।	O
+
+কিলিমাঞ্জারো	B-LOC
+,	O
+আফ্রিকা	B-LOC
+[১৯৮৩]	O
+
+দক্ষিণ	B-ORG
+তালপট্টি	I-ORG
+দ্বীপ	I-ORG
+
+ঢাকা	B-ORG
+মেডিকেল	I-ORG
+কলেজ	I-ORG
+
+আইওলুস	B-PER
+(	I-PER
+হেল্লেনের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+রিচার্ড	B-PER
+বোল্ডার	I-PER
+শার্প	I-PER
+
+কোয়া-জুলু	B-LOC
+নাটাল	I-LOC
+প্রদেশ	I-LOC
+
+আহমদ	B-PER
+শাহ	I-PER
+দুররানি	I-PER
+
+চার্লস	B-PER
+ব্রেন্টন	I-PER
+হাজিন্স	I-PER
+
+সেন্ট	B-LOC
+মার্টিন্‌স	I-LOC
+দ্বীপ	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্রের	I-ORG
+রাষ্ট্রপতি	I-ORG
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্রের	I-ORG
+রাষ্ট্রপতি	I-ORG
+
+ফ্রান্স	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+===	O
+জম্মু	B-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+===	O
+
+রালফ	B-PER
+ওয়াল্ডো	I-PER
+এমারসন	I-PER
+
+রবীন্দ্র	B-LOC
+সরোবর	I-LOC
+,	I-LOC
+কলকাতা	I-LOC
+
+সাইরিন	B-LOC
+,	I-LOC
+লিবিয়া	I-LOC
+
+অস্ট্রেলিয়া	B-ORG
+জাতীয়	I-ORG
+মহিলা	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+বর্তমান	B-ORG
+(	I-ORG
+দৈনিক	I-ORG
+পত্রিকা	I-ORG
+)	I-ORG
+
+ক্রিকেটের	B-ORG
+ইতিহাস	I-ORG
+১৭২৬	I-ORG
+-	I-ORG
+১৭৬৩	I-ORG
+
+পাপারাৎসির	O
+মূর্তি	O
+,	O
+[[ব্রাতিস্লাভা	O
+,	O
+স্লোভাকিয়া	B-LOC
+
+অভয়চরণারবিন্দ	B-PER
+ভক্তিবেদান্ত	I-PER
+স্বামী	I-PER
+প্রভুপাদ	I-PER
+
+প্যারাগুয়ে	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+ওয়েস্ট	B-ORG
+হ্যাম	I-ORG
+ইউনাইটেড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+গঙ্গা	B-LOC
+নদী	I-LOC
+শুশুক	I-LOC
+
+ইউনাইটেড	B-ORG
+লিবারেশন	I-ORG
+ফ্রন্ট	I-ORG
+অব	I-ORG
+আসাম	I-ORG
+
+ইউনিভার্সিটি	B-ORG
+অফ	I-ORG
+টেক্সাস	I-ORG
+অ্যাট	I-ORG
+আর্লিংটন	I-ORG
+
+দ্বিতীয়	B-LOC
+বিশ্বযুদ্ধে	I-LOC
+অক্ষশক্তি	I-LOC
+
+জসীম	B-PER
+উদ্	I-PER
+দীন	I-PER
+
+রবার্ট	B-PER
+ব্যাডেন	I-PER
+পাওয়েল	I-PER
+
+কুব্বাত	B-ORG
+আস	I-ORG
+সাখরা	I-ORG
+
+এম	B-PER
+নাইট	I-PER
+শ্যামালান	I-PER
+
+জিব্রাল্টার	B-LOC
+প্রণালী	I-LOC
+(	O
+১৪.৩	O
+কি.মি	O
+.	O
+
+'	O
+''	O
+মার্টিন	B-PER
+গাপটিল	I-PER
+''	O
+'	O
+
+চুয়াডাঙ্গা	B-LOC
+সদর	I-LOC
+উপজেলা	I-LOC
+
+জেমস	B-PER
+বন্ড	I-PER
+(	I-PER
+চরিত্র	I-PER
+)	I-PER
+
+স্তুপাকৃতি	B-LOC
+মালামাল	I-LOC
+স্থানান্তর	I-LOC
+পদ্ধতি	I-LOC
+
+নিউ	B-LOC
+সাউথ	I-LOC
+ওয়েল্স	I-LOC
+
+এস.এ.এস.	B-LOC
+নগর	I-LOC
+(	I-LOC
+মোহালি	I-LOC
+)	I-LOC
+
+ওসামা	B-PER
+বিন	I-PER
+লাদেন	I-PER
+
+ইউনিভার্সিটি	B-ORG
+কলেজ	I-ORG
+লন্ডন	I-ORG
+
+বাজিলিকা	B-ORG
+দি	I-ORG
+সান্তা	I-ORG
+ক্রোচে	I-ORG
+
+মোহনদাস	B-PER
+করমচাঁদ	I-PER
+গান্ধী	I-PER
+
+জিম্বাবুয়ে	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+মহাবিশ্বের	B-ORG
+বৃহৎ-পরিসর	I-ORG
+গঠন	I-ORG
+
+ট্রিগভে	B-PER
+হাভডেন	I-PER
+লি	I-PER
+
+'	O
+''	O
+ক্যামেরন	B-PER
+হোয়াইট	I-PER
+''	O
+'	O
+
+ফ্রাঙ্কলিন	B-PER
+ডি.	I-PER
+রুজভেল্ট	I-PER
+
+সংযুক্ত	B-ORG
+আরব	I-ORG
+আমিরাত	I-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+র‌্যান্টুল	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+সৈয়দ	B-PER
+মুজতবা	I-PER
+আলী	I-PER
+
+জর্জিয়া	B-LOC
+(	I-LOC
+রাষ্ট্র	I-LOC
+)	I-LOC
+
+জাতীয়	B-ORG
+অ্যান্টার্কটিকা	I-ORG
+ও	I-ORG
+মহাসাগর	I-ORG
+গবেষণা	I-ORG
+কেন্দ্র	I-ORG
+
+মার্টিন	B-PER
+লুথার	I-PER
+কিং	I-PER
+,	I-PER
+জুনিয়র	I-PER
+
+অস্ট্রেলিয়া	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+কার্ল	B-PER
+ফ্রিডরিখ	I-PER
+ফন	I-PER
+ভাইৎস্যেকার	I-PER
+
+স্টানলি	B-PER
+বি	I-PER
+প্রুসিনার	I-PER
+
+আগ্রাবাদ	B-ORG
+সরকারি	I-ORG
+কলোনি	I-ORG
+উচ্চ	I-ORG
+বিদ্যালয়	I-ORG
+
+গণতান্ত্রিক	B-LOC
+কঙ্গো	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+ডেভিড	B-PER
+কক্স	I-PER
+(	I-PER
+পরিসংখ্যানবিদ	I-PER
+)	I-PER
+
+**	O
+ব্রাসেল্‌স	B-LOC
+(	O
+দূতাবাস	O
+)	O
+
+জামায়াতে	B-ORG
+ইসলামী	I-ORG
+হিন্দ	I-ORG
+,	O
+
+উত্তরবঙ্গ	B-ORG
+কৃষি	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+ইসিদোর	B-PER
+ইজাক	I-PER
+রাবি	I-PER
+
+পূর্ণ	B-LOC
+আভ্যন্তরীন	I-LOC
+প্রতিফলন	I-LOC
+
+অক্সফোর্ড	B-ORG
+ইউনিভার্সিটি	I-ORG
+প্রেস	I-ORG
+
+রাশিয়ার	B-PER
+দ্বিতীয়	I-PER
+নিকোলাস	I-PER
+
+সমাজবাদী	B-ORG
+বাম	I-ORG
+দল	I-ORG
+(	I-ORG
+অস্ট্রিয়া	I-ORG
+)	I-ORG
+
+আবদুল	B-PER
+করিম	I-PER
+খন্দকার	I-PER
+
+লিভারপুল	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+সাঁতার	I-ORG
+–	I-ORG
+মহিলাদের	I-ORG
+১০০	I-ORG
+মিটার	I-ORG
+ফ্রিস্টাইল	I-ORG
+
+আসিফ	B-PER
+ইকবাল	I-PER
+(	I-PER
+ক্রিকেটার	I-PER
+)	I-PER
+
+আলবের্তো	B-PER
+দেল	I-PER
+রিও	I-PER
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+আমির	B-PER
+আবদুল্লাহ	I-PER
+খান	I-PER
+নিয়াজী	I-PER
+
+হেনরি	B-PER
+অ্যাডামস	I-PER
+(	I-PER
+ক্রিকেটার	I-PER
+)	I-PER
+
+জহুর	B-LOC
+আহমেদ	I-LOC
+চৌধুরী	I-LOC
+স্টেডিয়াম	I-LOC
+
+প্রেস্টন	B-ORG
+নর্থ	I-ORG
+এন্ড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+গবর্নমেন্ট	B-ORG
+ল্যাবরেটরি	I-ORG
+হাই	I-ORG
+স্কুল	I-ORG
+,	I-ORG
+ঢাকা	I-ORG
+
+ফেডারেল	B-ORG
+ব্যুরো	I-ORG
+অব	I-ORG
+ইনভেস্টিগেশন	I-ORG
+
+জে	B-PER
+কে	I-PER
+রাউলিং	I-PER
+
+টমাস	B-PER
+স্যামুয়েল	I-PER
+কুন	I-PER
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্রের	I-ORG
+রাষ্ট্রপতি	I-ORG
+
+আবদুল	B-PER
+জব্বার	I-PER
+(	I-PER
+ভাষা	I-PER
+শহীদ	I-PER
+)	I-PER
+
+জন	B-PER
+আলেক্সেন্ডার	I-PER
+হান্টার	I-PER
+
+আল-হারিস	B-PER
+ইবনে	I-PER
+সুরাইজ	I-PER
+
+ভোল্‌ফগাংক্‌	B-PER
+আমাডেয়ুস	I-PER
+মোৎসার্ট	I-PER
+
+গঙ্গা	B-LOC
+নদী	I-LOC
+শুশুক	I-LOC
+
+কার্ল	B-PER
+আলেকজান্ডার	I-PER
+মুলার	I-PER
+
+আবুল	B-PER
+কাশেম	I-PER
+ফজলুল	I-PER
+হক	I-PER
+
+সাঁউ	B-LOC
+তুমি	I-LOC
+ও	I-LOC
+প্রিন্সিপি	I-LOC
+
+ভিক্টোরিয়া	B-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+বুড়া	B-LOC
+চাপরি	I-LOC
+বন্যপ্রাণ	I-LOC
+অভয়ারণ্য	I-LOC
+
+ব্রিটিশ	B-ORG
+একাডেমি	I-ORG
+অব	I-ORG
+ফিল্ম	I-ORG
+অ্যান্ড	I-ORG
+টেলিভিশন	I-ORG
+আর্টস	I-ORG
+
+দক্ষিণ	B-LOC
+চব্বিশ	I-LOC
+পরগণা	I-LOC
+জেলা	I-LOC
+
+ড.	B-PER
+মুনতাসীর	I-PER
+মামুন	I-PER
+,	O
+অধ্যাপক	O
+,	O
+ঢাকা	B-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+জগদীশপুর	B-LOC
+,	I-LOC
+হাওড়া	I-LOC
+
+**	O
+দাগি	B-LOC
+নাটাবটের	I-LOC
+,	O
+''Turnix	O
+suscitator	O
+''	O
+
+ভিলহেল্ম	B-PER
+কনরাড	I-PER
+র‌ন্টগেন	I-PER
+
+ওয়াল্টার	B-PER
+হাউজার	I-PER
+ব্র্যাটেইন	I-PER
+
+সেপ্টেম্বর	B-ORG
+১১	I-ORG
+,	I-ORG
+২০০১	I-ORG
+এর	I-ORG
+হামলা	I-ORG
+
+মেক্সিকো	B-ORG
+সিটি	I-ORG
+মেট্রো	I-ORG
+
+পূর্ব	B-LOC
+কেপ	I-LOC
+প্রদেশ	I-LOC
+
+ব্লুমসবারি	B-ORG
+পাবলিশিং	I-ORG
+প্রাইভেট	I-ORG
+লিমিটেড	I-ORG
+
+ঘানা	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+বাংলাদেশের	B-ORG
+সাধারণ	I-ORG
+নির্বাচন	I-ORG
+,	I-ORG
+১৯৮৬	I-ORG
+
+ইয়োহান	B-PER
+ভোলফগাং	I-PER
+ফন	I-PER
+গ্যোটে	I-PER
+
+স্যান	B-LOC
+হোসে	I-LOC
+,	I-LOC
+কোস্টা	I-LOC
+রিকা	I-LOC
+
+লাল-রেখা	B-LOC
+টর্পেডো	I-LOC
+মাছ	I-LOC
+
+আন্দামান	B-LOC
+ও	I-LOC
+নিকোবর	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+কালীগঞ্জ	B-LOC
+উপজেলা	I-LOC
+,	I-LOC
+গাজীপুর	I-LOC
+
+হো	B-LOC
+চি	I-LOC
+মিন	I-LOC
+সিটি	I-LOC
+
+সিস্তন	B-LOC
+ও	I-LOC
+বালুচেস্তন	I-LOC
+প্রদেশ	I-LOC
+
+সেন্ট	B-LOC
+ভিনসেন্ট	I-LOC
+ও	I-LOC
+গ্রেনাডাইন	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+সেপ্টেম্বর	B-ORG
+১১	I-ORG
+,	I-ORG
+২০০১	I-ORG
+এর	I-ORG
+হামলা	I-ORG
+
+জন	B-PER
+ফ্রাঙ্কলিন	I-PER
+এন্ডারস	I-PER
+
+কিশোর	B-PER
+কুমার	I-PER
+,	O
+আশা	B-PER
+ভোঁসলে	I-PER
+
+**	O
+সেলেস্টিন	O
+টাগুনজিরা	O
+(	O
+রুয়ান্ডা	B-LOC
+)	O
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+জি	B-LOC
+কার	I-LOC
+প্রদেশ	I-LOC
+
+রোমিও	B-LOC
+অ্যান্ড	I-LOC
+জুলিয়েট	I-LOC
+''	O
+
+হিরোস	B-PER
+(	I-PER
+টিভি	I-PER
+সিরিজ	I-PER
+)	I-PER
+
+উইলিয়াম	B-PER
+হাওয়ার্ড	I-PER
+ট্যাফ্ট	I-PER
+
+ফিলিপ	B-PER
+লাম	I-PER
+(	O
+দ	O
+)	O
+
+সুভাষ	B-PER
+দত্ত	I-PER
+-	O
+কানুলাল	O
+
+জায়েদ	B-PER
+স্পোর্টস	I-PER
+সিটি	I-PER
+স্টেডিয়াম	I-PER
+,	O
+আবুধাবি	B-LOC
+
+জাতিসংঘের	B-LOC
+সদস্য	I-LOC
+দেশ	I-LOC
+
+আর্থার	B-PER
+সি	I-PER
+ক্লার্ক	I-PER
+
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+ইউনিভার্সিটি	B-ORG
+কলেজ	I-ORG
+লন্ডন	I-ORG
+
+জাতিসংঘের	B-LOC
+সদস্য	I-LOC
+দেশ	I-LOC
+
+হাবিব	B-ORG
+ব্যাংক	I-ORG
+লিমিটেড	I-ORG
+(	I-ORG
+পাকিস্তান	I-ORG
+)	I-ORG
+
+দুবাই	B-LOC
+,	O
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+মহাবিশ্বের	B-ORG
+বৃহৎ-পরিসর	I-ORG
+গঠন	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+হো	B-LOC
+চি	I-LOC
+মিন	I-LOC
+সিটি	I-LOC
+
+'	O
+''	O
+দিসপুর	B-LOC
+''	O
+'	O
+
+এশিয়ান	B-ORG
+গেমসে	I-ORG
+বাংলাদেশ	I-ORG
+
+প্রচারের	O
+সময়	O
+(	O
+বাংলাদেশ	B-LOC
+৩০	O
+মিনিট+	O
+)	O
+
+পবিত্র	B-ORG
+রোম	I-ORG
+সাম্রাজ্য	I-ORG
+
+আমেরিকান	B-ORG
+ন্যাশনাল	I-ORG
+স্ট্যান্ডার্ডস	I-ORG
+ইনস্টিটিউট	I-ORG
+
+ম্যাসেডোনিয়া	B-LOC
+(	I-LOC
+গ্রীস	I-LOC
+)	I-LOC
+
+এম.	B-PER
+সি.	I-PER
+এশ্যর	I-PER
+
+জর্জ	B-PER
+ডব্লিউ.	I-PER
+বুশ	I-PER
+
+সিলেট	B-ORG
+কৃষি	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+অ্যালেক্সান্ড্রিয়া	B-LOC
+,	I-LOC
+ভার্জিনিয়া	I-LOC
+
+আর	B-LOC
+রাব	I-LOC
+আল	I-LOC
+খালি	I-LOC
+মরুভূমি	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+আ	B-PER
+হ	I-PER
+ম	I-PER
+মোস্তফা	I-PER
+কামাল	I-PER
+
+হিন্দুস্তান	B-ORG
+এরোনটিকস	I-ORG
+লিমিটেড	I-ORG
+স্পোর্টস	I-ORG
+ক্লাব	I-ORG
+
+মোহনদাস	B-PER
+করমচাঁদ	I-PER
+গান্ধী	I-PER
+
+ভারত	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+ফ্লোরেন্স	B-ORG
+এ্যান্ড	I-ORG
+দ্য	I-ORG
+মেসিন	I-ORG
+
+জন	B-PER
+ম্যাক্সওয়েল	I-PER
+কুতসি	I-PER
+
+রাফায়েল	B-PER
+পেরেইরা	I-PER
+দা	I-PER
+সিলভা	I-PER
+
+সারে	B-LOC
+পোল	I-LOC
+প্রদেশ	I-LOC
+
+ঢাকা	B-ORG
+দক্ষিণ	I-ORG
+সিটি	I-ORG
+কর্পোরেশন	I-ORG
+
+'	O
+''	O
+সাইমন	B-PER
+টাওফেল	I-PER
+''	O
+'	O
+
+জুরিস	B-PER
+হার্টম্যানিস	I-PER
+and	O
+রিচার্ড	B-PER
+এডউইন	I-PER
+স্টার্নস	I-PER
+
+সেপ্টেম্বর	B-ORG
+১১	I-ORG
+,	I-ORG
+২০০১	I-ORG
+এর	I-ORG
+হামলা	I-ORG
+
+মদন	B-PER
+মোহন	I-PER
+তর্কালঙ্কার	I-PER
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+খলিল	B-PER
+উল্লাহ	I-PER
+খান	I-PER
+,	O
+সুমিতা	B-PER
+দেবী	I-PER
+,	O
+
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+আর্থার	B-PER
+সি	I-PER
+ক্লার্ক	I-PER
+
+মাইক	B-PER
+নিউয়েল	I-PER
+(	I-PER
+পরিচালক	I-PER
+)	I-PER
+
+কানাডীয়	B-LOC
+(	O
+২	O
+)	O
+===	O
+
+টার্কস্‌	B-LOC
+ও	I-LOC
+কেইকোস	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+জেমস	B-PER
+(	I-PER
+গায়ক	I-PER
+)	I-PER
+
+হিরোস	B-PER
+(	I-PER
+টিভি	I-PER
+সিরিজ	I-PER
+)	I-PER
+
+ওগুস্তাঁ	B-PER
+লুই	I-PER
+কোশি	I-PER
+
+২০০৯-এর	B-ORG
+বিডিআর	I-ORG
+বিদ্রোহ	I-ORG
+
+মার্ক	B-PER
+ডেভিড	I-PER
+চ্যাপম্যান	I-PER
+
+আলেক্সান্দ্র্‌	B-PER
+আলেক্সান্দ্রোভিচ	I-PER
+ফ্রিদমান	I-PER
+
+রবার্ট	B-PER
+এইচ	I-PER
+গডার্ড	I-PER
+
+বিশ্ব	B-ORG
+স্বাস্থ্য	I-ORG
+সংস্থা	I-ORG
+
+শহীদ	B-LOC
+সোহরাওয়ার্দী	I-LOC
+মেডিকেল	I-LOC
+কলেজ	I-LOC
+হাসপাতাল	I-LOC
+
+ইখতিয়ার	B-PER
+উদ্দিন	I-PER
+মুহম্মদ	I-PER
+বিন	I-PER
+বখতিয়ার	I-PER
+খলজী	I-PER
+
+কোয়া-জুলু	B-LOC
+নাটাল	I-LOC
+প্রদেশ	I-LOC
+
+উত্তরে	O
+-	O
+বাগাতিপাড়া	B-LOC
+উপজেলা	I-LOC
+,	O
+দক্ষিণে	O
+-	O
+কুষ্টিয়া	B-LOC
+জেলা	I-LOC
+,	O
+পূর্বে	O
+-	O
+পাবনা	B-LOC
+জেলার	I-LOC
+ঈশ্বরদী	B-LOC
+উপজেলা	I-LOC
+,	O
+পশ্চিমে	O
+-	O
+রাজশাহী	B-LOC
+জেলার	I-LOC
+বাঘা	B-LOC
+উপজেলা।	I-LOC
+
+'	O
+''	O
+''Hyelaphus	O
+porcinus	O
+annamiticus	O
+''	O
+'	O
+''	O
+-এই	O
+উপ-প্ৰজাতিটি	O
+থাইল্যান্ড	B-LOC
+আর	O
+ইন্দোনেশিয়াতে	B-LOC
+পাওয়া	O
+যায়।	O
+
+ডব্লিউ	B-LOC
+ভার্জিনিস	I-LOC
+তারা	I-LOC
+
+জন	B-PER
+ফর্ব্‌স	I-PER
+ন্যাশ	I-PER
+
+মানিকগঞ্জ	B-LOC
+সদর	I-LOC
+উপজেলা	I-LOC
+
+এস্তাদিও	B-LOC
+ন্যাশিওন্যাল	I-LOC
+মানে	I-LOC
+গ্যারিঞ্চা	I-LOC
+
+সেন্ট্রাল	B-ORG
+ইন্টেলিজেন্স	I-ORG
+এজেন্সি	I-ORG
+
+ময়দান	B-LOC
+,	I-LOC
+কলকাতা	I-LOC
+
+এদুয়ার্দু	B-PER
+দা	I-PER
+সিলভা	I-PER
+
+জর্জ	B-PER
+গর্ডন	I-PER
+বায়রন	I-PER
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+**	O
+নিরো	B-PER
+(	O
+দশ	O
+ঘোড়ার	O
+রথের	O
+চালক	O
+)	O
+
+জালাল	B-PER
+উদ্দিন	I-PER
+মুহাম্মদ	I-PER
+রুমি	I-PER
+
+কলকাতা	B-LOC
+বন্দর	I-LOC
+বিধানসভা	I-LOC
+কেন্দ্র	I-LOC
+
+চাহর-মাহাল	B-LOC
+ও	I-LOC
+বাখতেয়রি	I-LOC
+প্রদেশ	I-LOC
+
+**	O
+আনাক্সিমান্দ্রোস	B-PER
+(	O
+৬১০	O
+-	O
+৫৪৬	O
+খ্রিঃপূঃ	O
+)	O
+
+পশ্চিম	B-LOC
+আজারবাইজান	I-LOC
+প্রদেশ	I-LOC
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+চেস্টার	B-PER
+এ.	I-PER
+আর্থার	I-PER
+
+বিশ্ব	B-ORG
+স্বাস্থ্য	I-ORG
+সংস্থা	I-ORG
+
+ভিনসেন্ট	B-PER
+ভ্যান	I-PER
+গখ	I-PER
+
+দাদরা	B-LOC
+ও	I-LOC
+নগর	I-LOC
+হাভেলি	I-LOC
+
+নুসরাত	B-PER
+ফাতেহ	I-PER
+আলী	I-PER
+খান	I-PER
+
+পাউন্ড	B-ORG
+(	I-ORG
+ভর	I-ORG
+)	I-ORG
+
+যীশু	B-PER
+সেনগুপ্ত	I-PER
+-	O
+ব্যোমকেশ	B-PER
+বক্সী	I-PER
+
+জম্মু	B-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+
+ভিল্‌হেল্ম	B-PER
+ফন	I-PER
+হুম্বোল্ট	I-PER
+
+ইস্টার্ন	B-ORG
+ফেডারেল	I-ORG
+ক্রেডিট	I-ORG
+ইউনিয়ন	I-ORG
+বীমা	I-ORG
+ভবন	I-ORG
+
+কার্লোস	B-PER
+দুঙ্গা	I-PER
+(	O
+২০০৬-২০১০	O
+)	O
+
+সেইন্ট	B-ORG
+গ্রেগরী	I-ORG
+উচ্চ	I-ORG
+বিদ্যালয়	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+‘’মধুসূদন	O
+বক্সী’’র	O
+চরিত্রে	O
+রজতাভ	B-PER
+দত্ত	I-PER
+
+ন্যাশনাল	B-ORG
+বোর্ড	I-ORG
+অব	I-ORG
+রিভিউ	I-ORG
+অব	I-ORG
+মোশন	I-ORG
+পিকচার্স	I-ORG
+
+ইংল্যান্ড	B-ORG
+মহিলা	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+হিরোস	B-PER
+(	I-PER
+টিভি	I-PER
+সিরিজ	I-PER
+)	I-PER
+
+অ্যালেক্সান্ড্রিয়া	B-LOC
+,	I-LOC
+ভার্জিনিয়া	I-LOC
+
+দ্বিতীয়	B-PER
+মুহাম্মদ	I-PER
+(	I-PER
+উসমানীয়	I-PER
+সুলতান	I-PER
+)	I-PER
+
+সোভিয়েত	B-ORG
+ইউনিয়নের	I-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+কাদাখোঁচা	B-LOC
+(	O
+''Gallinago	O
+gallinago	O
+''	O
+)	O
+
+পানিপথের	B-ORG
+প্রথম	I-ORG
+যুদ্ধ	I-ORG
+
+বাংলাদেশের	B-PER
+স্বাধীনতা	I-PER
+যুদ্ধ	I-PER
+
+অ্যান্টিগুয়া	B-ORG
+এবং	I-ORG
+বার্বুডার	I-ORG
+অর্থনীতি	I-ORG
+
+১৯৭১	B-LOC
+সালের	I-LOC
+অস্থায়ী	I-LOC
+বাংলাদেশ	I-LOC
+সরকার	I-LOC
+
+খন্দকার	B-PER
+মোশতাক	I-PER
+আহমেদ	I-PER
+
+কিউবার	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+জাতিসংঘ	B-ORG
+শিক্ষা	I-ORG
+,	I-ORG
+বিজ্ঞান	I-ORG
+ও	I-ORG
+সংস্কৃতি	I-ORG
+সংস্থা	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+জুডো	I-ORG
+–	I-ORG
+পুরুষদের	I-ORG
+৮১	I-ORG
+কেজি	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+জুডো	I-ORG
+–	I-ORG
+পুরুষদের	I-ORG
+৯০	I-ORG
+কেজি	I-ORG
+
+ভারতের	B-ORG
+সাধারণ	I-ORG
+নির্বাচন	I-ORG
+,	I-ORG
+১৯৪৫	I-ORG
+
+দ্বিজেন	B-PER
+শর্মা	I-PER
+(	O
+সামগ্রিক	O
+অবদান	O
+)	O
+
+নবজ্যোত	B-PER
+সিং	I-PER
+সিধু	I-PER
+
+সিস্তন	B-LOC
+ও	I-LOC
+বালুচেস্তন	I-LOC
+প্রদেশ	I-LOC
+
+'	O
+''	O
+টিম	B-PER
+সাউদি	I-PER
+''	O
+'	O
+
+মালিক	B-PER
+গোলাম	I-PER
+মুহাম্মদ	I-PER
+
+ইউলিসিস	B-PER
+এস.	I-PER
+গ্রান্ট	I-PER
+
+হংকং	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+'	O
+''	O
+রড	B-PER
+টাকার	I-PER
+''	O
+'	O
+
+জন	B-PER
+ডান্স	I-PER
+স্কোটাস	I-PER
+
+বৃহত্তর	B-LOC
+কলকাতার	I-LOC
+নগরাঞ্চলগুলির	I-LOC
+তালিকা	I-LOC
+
+স্ট্যাচু	B-ORG
+অব	I-ORG
+লিবার্টি	I-ORG
+
+কার্ল	B-PER
+আলেকজান্ডার	I-PER
+মুলার	I-PER
+
+সন্তোষ	B-PER
+চন্দ্র	I-PER
+ভট্টাচার্য	I-PER
+
+সেন্ট	B-ORG
+পিটার্সবার্গ	I-ORG
+মেট্রো	I-ORG
+
+নিউল্যান্ডস	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+কেপ	B-LOC
+টাউন	I-LOC
+
+আমেরিকান	B-ORG
+ইন্টারন্যাশনাল	I-ORG
+গ্রুপ	I-ORG
+
+রেচেল	B-PER
+কোরিন	I-PER
+-	O
+কটি	O
+
+আব্দুল	B-PER
+জব্বার	I-PER
+,	O
+বাংলাদেশের	B-LOC
+কণ্ঠশিল্পী।	O
+
+বিশ্ব	B-ORG
+ঐতিহ্যবাহী	I-ORG
+স্থান	I-ORG
+
+'	O
+''	O
+দক্ষিণ	B-LOC
+কোরিয়া	I-LOC
+''	O
+'	O
+
+কোর্দেস্তন	B-LOC
+প্রদেশ	I-LOC
+(	I-LOC
+ইরান	I-LOC
+)	I-LOC
+
+বাংলাদেশ	B-ORG
+ইউনিভার্সিটি	I-ORG
+অব	I-ORG
+বিজনেস	I-ORG
+অ্যান্ড	I-ORG
+টেকনোলজি	I-ORG
+
+গোপালগঞ্জ	B-LOC
+(	I-LOC
+বিহার	I-LOC
+)	I-LOC
+
+সুদান	B-LOC
+(	I-LOC
+অঞ্চল	I-LOC
+)	I-LOC
+
+মানব	B-LOC
+যৌনতার	I-LOC
+রূপরেখা	I-LOC
+
+প্রসেনজিৎ	B-PER
+চট্টোপাধ্যায়	I-PER
+চরিত্রে	O
+''রাহুল	O
+''	O
+
+উত্তর	B-LOC
+কেপ	I-LOC
+প্রদেশ	I-LOC
+
+কেন্দ্রীয়	B-LOC
+ইউরোপীয়	I-LOC
+সময়	I-LOC
+
+অ্যালফ্রেড	B-PER
+জি	I-PER
+গিলম্যান	I-PER
+;	O
+মার্টিন	B-PER
+রডবেল	I-PER
+
+পোর্টস্‌মাথ	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+শেখ	B-LOC
+আবু	I-LOC
+নাসের	I-LOC
+স্টেডিয়াম	I-LOC
+
+আইল	B-LOC
+অব	I-LOC
+ম্যান	I-LOC
+
+ইউনিভার্সিটি	B-ORG
+অব	I-ORG
+ইলিনয়	I-ORG
+অ্যাট	I-ORG
+আর্বানা-শ্যাম্পেইন	I-ORG
+
+ফোর্ড	B-ORG
+মোটর	I-ORG
+কোম্পানি	I-ORG
+
+জালাল	B-PER
+উদ্দিন	I-PER
+মুহাম্মদ	I-PER
+রুমি	I-PER
+
+সেন্ট্রাল	B-ORG
+ইন্টেলিজেন্স	I-ORG
+এজেন্সি	I-ORG
+
+ক্রিয়েটিভ	B-ORG
+কমন্স	I-ORG
+লাইসেন্স	I-ORG
+
+পোর্ট	B-LOC
+অব	I-LOC
+স্পেন	I-LOC
+
+ফিল্ড	B-ORG
+(	I-ORG
+গণিত	I-ORG
+)	I-ORG
+
+হাশিম	B-ORG
+ইবনে	I-ORG
+আবদ	I-ORG
+মানাফ	I-ORG
+
+ইনটিগ্রেটেড	B-ORG
+ডেভলপমেন্ট	I-ORG
+ইনভাইরনমেন্ট	I-ORG
+
+A	O
+self-governing	O
+area	O
+of	O
+ডেনমার্ক	B-LOC
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্রের	I-ORG
+সেনাবাহিনী	I-ORG
+
+সাইয়েদ	B-PER
+আবুল	I-PER
+আ'লা	I-PER
+মওদুদী	I-PER
+
+হো	B-LOC
+চি	I-LOC
+মিন	I-LOC
+সিটি	I-LOC
+
+ইউনিভার্সিটি	B-ORG
+অব	I-ORG
+ইলিনয়	I-ORG
+অ্যাট	I-ORG
+আর্বানা-শ্যাম্পেইন	I-ORG
+
+উত্তর	B-LOC
+খোরসন	I-LOC
+প্রদেশ	I-LOC
+
+খুলনা	B-ORG
+রয়েল	I-ORG
+বেঙ্গলস	I-ORG
+
+বেল-লা	B-PER
+পাদুলা	I-PER
+মডেল	I-PER
+
+এদের	O
+ডাক	O
+হল	O
+অনেকটা	O
+ভুবন	B-LOC
+চিলের	I-LOC
+ডাকের	O
+মতোন	O
+অভিযোগ	O
+করার	O
+ডাক।	O
+এদেরকে	O
+ছোট	O
+ছোট	O
+দলে	O
+দেখতে	O
+পাওয়া	O
+যায়	O
+অথবা	O
+জোড়ায়	O
+জোড়ায়।	O
+
+আন্তর্জাতিক	B-ORG
+অলিম্পিক	I-ORG
+কমিটি	I-ORG
+
+যমুনা	B-LOC
+নদী	I-LOC
+(	I-LOC
+বাংলাদেশ	I-LOC
+)	I-LOC
+
+বাংলাদেশের	B-PER
+স্বাধীনতা	I-PER
+যুদ্ধ	I-PER
+
+কোর্দেস্তন	B-LOC
+প্রদেশ	I-LOC
+(	I-LOC
+ইরান	I-LOC
+)	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+দেশি	B-LOC
+কালো	I-LOC
+ভ্রমর	I-LOC
+
+ন্যাশনাল	B-ORG
+লিবারেশন	I-ORG
+ফ্রন্ট	I-ORG
+(	I-ORG
+আলজেরিয়া	I-ORG
+)	I-ORG
+
+আমর	B-PER
+ইবনুল	I-PER
+আস	I-PER
+
+সিলিকন	B-LOC
+ভ্যালি	I-LOC
+(	I-LOC
+যুক্তরাষ্ট্র	I-LOC
+)	I-LOC
+
+ওয়েস্ট	B-ORG
+হ্যাম	I-ORG
+ইউনাইটেড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+আমজাদ	B-PER
+আলি	I-PER
+খান	I-PER
+
+ক্রেডেল	B-ORG
+অব	I-ORG
+ফিলথ	I-ORG
+
+জার্সি	B-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+গেয়র্গ	B-PER
+ভিলহেল্ম	I-PER
+ফ্রিডরিখ	I-PER
+হেগেল	I-PER
+
+ব্রজেন	B-PER
+দাস	I-PER
+(	O
+১৯২৭–১৯৯৮	O
+)	O
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্রের	I-ORG
+রাষ্ট্রপতি	I-ORG
+
+আবদুল	B-PER
+জব্বার	I-PER
+খান	I-PER
+
+আর্নোস	B-ORG
+ভ্যাল	I-ORG
+স্টেডিয়াম	I-ORG
+
+এস্তাদিও	B-LOC
+দো	I-LOC
+মারাকানা	I-LOC
+
+বুয়েনোস	B-LOC
+আইরেস	I-LOC
+মেট্রো	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+ভারত	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+মাহাথির	B-PER
+বিন	I-PER
+মোহাম্মদ	I-PER
+
+শেল্ডন	B-PER
+লি	I-PER
+গ্ল্যাশো	I-PER
+
+মুক্তিযোদ্ধা	B-ORG
+সংসদ	I-ORG
+ক্রীড়া	I-ORG
+চক্র	I-ORG
+(	O
+ঢাকা	B-LOC
+)	O
+
+ওরাসকম	B-ORG
+টেলিকম	I-ORG
+হোল্ডিং	I-ORG
+
+ভিলহেল্ম	B-PER
+কনরাড	I-PER
+র‌ন্টগেন	I-PER
+
+ইয়েদুগুরি	B-PER
+সন্দিন্তি	I-PER
+রাজশেখর	I-PER
+রেড্ডি	I-PER
+
+দক্ষিণ	B-LOC
+চব্বিশ	I-LOC
+পরগণা	I-LOC
+জেলা	I-LOC
+
+মজিদ	B-PER
+হক১	I-PER
+''	O
+(	O
+প্রত্যাহার	O
+)	O
+''	O
+
+শ্রীনগর	B-LOC
+,	I-LOC
+জম্মু	I-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+কনফেডারেট	B-LOC
+স্টেটস	I-LOC
+অফ	I-LOC
+আমেরিকা	I-LOC
+
+আলী	B-PER
+আকবর	I-PER
+খান	I-PER
+
+ভারতীয়	B-ORG
+রিজার্ভ	I-ORG
+ব্যাংক	I-ORG
+
+ক্রিকেটের	B-ORG
+ইতিহাস	I-ORG
+১৭২৬	I-ORG
+-	I-ORG
+১৭৬৩	I-ORG
+
+মিডল্‌স্‌ব্রো	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+জর্জ	B-PER
+ন্যাথানিয়েল	I-PER
+কার্জন	I-PER
+
+গ্রে'স	B-ORG
+অ্যানাটমি	I-ORG
+(	I-ORG
+টিভি	I-ORG
+সিরিজ	I-ORG
+)	I-ORG
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+মন্টিনেগ্রোর	B-ORG
+সামরিক	I-ORG
+বাহিনী	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+জুডো	I-ORG
+–	I-ORG
+পুরুষদের	I-ORG
+৭৩	I-ORG
+কেজি	I-ORG
+
+মহেন্দ্র	B-PER
+সিং	I-PER
+ধোনি	I-PER
+
+মুহাম্মদ	B-PER
+আলী	I-PER
+জিন্নাহ	I-PER
+
+বিশ্ব	B-ORG
+ঐতিহ্যবাহী	I-ORG
+স্থান	I-ORG
+
+বেঞ্জামিন	B-PER
+রবিন্স	I-PER
+কার্টিস	I-PER
+
+সেন্ট	B-LOC
+ভিনসেন্ট	I-LOC
+ও	I-LOC
+গ্রেনাডাইন	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+আইওলুস	B-PER
+(	I-PER
+হেল্লেনের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+পূর্ব	B-ORG
+ভারতীয়	I-ORG
+দ্বীপপুঞ্জ	I-ORG
+
+কলাম্বিয়া	B-LOC
+,	I-LOC
+সাউথ	I-LOC
+ক্যারোলাইনা	I-LOC
+
+জাপান	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+''রুদ্র	O
+''	O
+চরিত্রে	O
+সোহম	B-PER
+চক্রবর্তী	I-PER
+
+অ্যাভাটর	B-ORG
+:	I-ORG
+দ্য	I-ORG
+লাস্ট	I-ORG
+এয়ারবেন্ডার	I-ORG
+
+ওল্ডহ্যামের	B-LOC
+পাতা	I-LOC
+কাইট্টা	I-LOC
+
+কিরকোফের	B-ORG
+বর্তনীর	I-ORG
+সমীকরণসমূহ	I-ORG
+
+অভয়চরণারবিন্দ	B-PER
+ভক্তিবেদান্ত	I-PER
+স্বামী	I-PER
+প্রভুপাদ	I-PER
+
+জন	B-PER
+ল্য	I-PER
+কারে	I-PER
+
+২০০৩	B-ORG
+ক্রিকেট	I-ORG
+বিশ্বকাপ	I-ORG
+ফাইনাল	I-ORG
+
+পিয়ের	B-PER
+পাওলো	I-PER
+পাসোলিনি	I-PER
+
+ক্যালিফোর্নিয়া	B-ORG
+ইন্সটিটিউট	I-ORG
+অফ	I-ORG
+টেকনোলজি	I-ORG
+
+চতুর্দশ	B-PER
+দলাই	I-PER
+লামা	I-PER
+
+গুরু	B-PER
+গ্রন্থ	I-PER
+সাহিব	I-PER
+
+আশুতোষ	B-PER
+মুখোপাধ্যায়	I-PER
+(	I-PER
+সাহিত্যিক	I-PER
+)	I-PER
+
+চার্লস	B-PER
+দ্য	I-PER
+গল	I-PER
+
+উইলিয়াম	B-PER
+আলফ্রেড	I-PER
+ফাওলার	I-PER
+
+করেন	O
+এবং	O
+তিনি	O
+ইন্টারন্যাশানাল	B-ORG
+সোসাইটি	I-ORG
+ফর	I-ORG
+কৃষ্ণ	I-ORG
+কনসাসনেসের	I-ORG
+
+উৎপল	B-PER
+দত্ত	I-PER
+...	O
+ওথেলোর	O
+কণ্ঠে	O
+
+জামাল	B-PER
+আব্দেল	I-PER
+নাসের	I-PER
+
+অ্যাভাটর	B-ORG
+:	I-ORG
+দ্য	I-ORG
+লাস্ট	I-ORG
+এয়ারবেন্ডার	I-ORG
+
+স্টিভেন	B-PER
+জে	I-PER
+গুল্ড	I-PER
+
+সাঁ	B-LOC
+পিয়ের	I-LOC
+ও	I-LOC
+মিক‌লোঁ	I-LOC
+
+ইল্‌-দ্য-ফ্রঁস	B-LOC
+(	I-LOC
+অঞ্চল	I-LOC
+)	I-LOC
+
+''	O
+কালিহাতি	B-LOC
+উপজেলা	I-LOC
+''	O
+'	O
+
+সৈয়দ	B-PER
+নজরুল	I-PER
+ইসলাম	I-PER
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+টার্কস্‌	B-LOC
+ও	I-LOC
+কেইকোস	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+**	O
+নেপালের	B-ORG
+বিশ্ব	I-ORG
+ঐতিহ্যবাহী	I-ORG
+স্থানসমূহের	I-ORG
+তালিকা	I-ORG
+
+জাতিসংঘ	B-ORG
+শিক্ষা	I-ORG
+,	I-ORG
+বিজ্ঞান	I-ORG
+ও	I-ORG
+সংস্কৃতি	I-ORG
+সংস্থা	I-ORG
+
+কিরকোফের	B-ORG
+বর্তনীর	I-ORG
+সমীকরণসমূহ	I-ORG
+
+হেমট্রামিক	B-LOC
+,	I-LOC
+মিশিগান	I-LOC
+
+বেইজিং	B-ORG
+ন্যাশনাল	I-ORG
+স্টেডিয়াম	I-ORG
+
+'	O
+''	O
+জয়পুর	B-LOC
+''	O
+'	O
+
+য়োন-তান-র্গ্যা-ম্ত্শো	B-PER
+(	I-PER
+চতুর্থ	I-PER
+দলাই	I-PER
+লামা	I-PER
+)	I-PER
+
+সাবিনা	B-PER
+ইয়াসমিন	I-PER
+ও	O
+অ্যান্ড্রু	B-PER
+কিশোর	I-PER
+
+২০১৫	B-ORG
+ক্রিকেট	I-ORG
+বিশ্বকাপ	I-ORG
+নকআউট	I-ORG
+পর্ব	I-ORG
+
+বাংলাদেশের	B-ORG
+সাম্যবাদী	I-ORG
+দল	I-ORG
+(	I-ORG
+মার্কসবাদী-লেনিনবাদী	I-ORG
+)	I-ORG
+(	I-ORG
+দত্ত	I-ORG
+)	I-ORG
+
+ফ্রাঙ্কলিন	B-PER
+ডি.	I-PER
+রুজভেল্ট	I-PER
+
+মহীনের	B-ORG
+ঘোড়াগুলির	I-ORG
+ডিস্কোগ্রাফি	I-ORG
+
+আইওলুস	B-PER
+(	I-PER
+হেল্লেনের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+'	O
+''	O
+স্টকহোম	B-LOC
+''	O
+'	O
+
+বসনিয়া	B-LOC
+ও	I-LOC
+হার্জেগোভিনা	I-LOC
+
+গণতান্ত্রিক	B-LOC
+কঙ্গো	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+এইচ	B-PER
+জি	I-PER
+ওয়েলস	I-PER
+
+মিডল	B-ORG
+টেনেসি	I-ORG
+স্টেট	I-ORG
+ইউনিভার্সিটি	I-ORG
+
+লস	B-ORG
+অ্যাঞ্জেলেস	I-ORG
+কাউন্টি	I-ORG
+মেট্রো	I-ORG
+রেল	I-ORG
+
+বি	B-ORG
+এ	I-ORG
+এফ	I-ORG
+শাহীন	I-ORG
+কলেজ	I-ORG
+ঢাকা	I-ORG
+
+এফবিআই	B-PER
+শীর্ষ	I-PER
+দশ	I-PER
+ফেরারী	I-PER
+
+এই	O
+ইউনিয়নটি	O
+চট্টগ্রাম	B-LOC
+বিভাগের	I-LOC
+কক্সবাজার	B-LOC
+জেলার	I-LOC
+কুতুবদিয়া	B-LOC
+উপজেলার	I-LOC
+অন্তর্গত।	O
+
+শ্যাম্পেইন	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+হিরোস	B-PER
+(	I-PER
+টিভি	I-PER
+সিরিজ	I-PER
+)	I-PER
+
+পশ্চিম	B-LOC
+আজারবাইজান	I-LOC
+প্রদেশ	I-LOC
+
+পটুয়াখালী	B-LOC
+সদর	I-LOC
+উপজেলা	I-LOC
+,	O
+মির্জাগঞ্জ	B-LOC
+উপজেলা	I-LOC
+,	O
+এবং	O
+দুমকি	B-LOC
+উপজেলা	I-LOC
+
+বঙ্গবন্ধু	B-LOC
+জাতীয়	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+মতিঝিল	B-LOC
+,	O
+ঢাকা	B-LOC
+
+সেন্ট	B-LOC
+কিট্‌স	I-LOC
+ও	I-LOC
+নেভিস	I-LOC
+
+শেল্ডন	B-PER
+লি	I-PER
+গ্ল্যাশো	I-PER
+
+গ্রে'স	B-ORG
+অ্যানাটমি	I-ORG
+(	I-ORG
+টিভি	I-ORG
+সিরিজ	I-ORG
+)	I-ORG
+
+মোহনদাস	B-PER
+করমচাঁদ	I-PER
+গান্ধী	I-PER
+
+শ্রীলঙ্কা	B-ORG
+ফ্রিডম	I-ORG
+পার্টি	I-ORG
+
+এস.এ.এস.	B-LOC
+নগর	I-LOC
+(	I-LOC
+মোহালি	I-LOC
+)	I-LOC
+
+রামগোপাল	B-PER
+ঘোষ	I-PER
+,	O
+আর	O
+.	O
+
+উলুবেড়িয়া	B-LOC
+লোকসভা	I-LOC
+কেন্দ্র	I-LOC
+
+কলকাতা	B-LOC
+,	O
+হাওড়া	B-LOC
+,	O
+পাটনা	B-LOC
+,	O
+আসানসোল	B-LOC
+,	O
+রাঁচি	B-LOC
+,	O
+জামশেদপুর	B-LOC
+
+আফ্রিকা	B-ORG
+দখলের	I-ORG
+লড়াই	I-ORG
+
+কার্ল	B-PER
+গুস্তাফ	I-PER
+ইয়াকপ	I-PER
+ইয়াকবি	I-PER
+
+আদম	B-PER
+(	I-PER
+ইসলামের	I-PER
+পয়গম্বর	I-PER
+)	I-PER
+
+হাকা	B-ORG
+চিন	I-ORG
+ভাষা	I-ORG
+
+(	O
+ইংল্যান্ড	B-LOC
+,	O
+স্কটল্যান্ড	B-LOC
+and	O
+ওয়েল্‌স্‌	B-LOC
+)	O
+
+জাতিসংঘ	B-ORG
+শরণার্থীবিষয়ক	I-ORG
+হাইকমিশনার	I-ORG
+
+'	O
+''	O
+থমাস	B-PER
+বাখ	I-PER
+''	O
+'	O
+
+পারি	B-ORG
+সাঁ-জের্‌মাঁ	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+''রাহুল	O
+''	O
+(	O
+দেব	B-PER
+)	O
+ও	O
+''রিয়া	O
+''	O
+(	O
+কোয়েল	B-PER
+মল্লিক	I-PER
+)	O
+শিলিগুড়িতে	B-LOC
+একে	O
+অপরের	O
+সাথে	O
+পরিচিত	O
+হয়।	O
+''রিয়া	O
+''	O
+তার	O
+বন্ধুর	O
+সাথে	O
+দেখা	O
+করতে	O
+যাচ্ছে	O
+,	O
+পক্ষান্তরে	O
+''রাহুল	O
+''	O
+যাচ্ছে	O
+তার	O
+চুরি	O
+করা	O
+জিনিসটি	O
+বেঁচতে।	O
+তাদের	O
+উভয়ের	O
+গন্তব্য	O
+দার্জিলিং।	B-LOC
+
+ইন্টারন্যাশনাল	B-ORG
+অ্যাস্ট্রোনমিক্যাল	I-ORG
+ইউনিয়ন	I-ORG
+
+মুহাম্মাদের	B-PER
+বৈবাহিক	I-PER
+জীবন	I-PER
+
+অমর	B-ORG
+একুশে	I-ORG
+গ্রন্থমেলা	I-ORG
+
+হারারে	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+,	O
+হারারে	B-LOC
+
+হ্যারি	B-LOC
+পটার	I-LOC
+অ্যান্ড	I-LOC
+দ্য	I-LOC
+হাফ-ব্লাড	I-LOC
+প্রিন্স	I-LOC
+
+টালাহাসি	B-LOC
+,	I-LOC
+ফ্লোরিডা	I-LOC
+
+গাণিতিক	B-ORG
+প্রতীকের	I-ORG
+তালিকা	I-ORG
+
+দক্ষিণ	B-LOC
+চব্বিশ	I-LOC
+পরগণা	I-LOC
+জেলা	I-LOC
+
+বিশ্ব	B-ORG
+স্কাউট	I-ORG
+সংস্থা	I-ORG
+
+হো	B-PER
+চি	I-PER
+মিন	I-PER
+
+পাল্লেকেলে	B-LOC
+আন্তর্জাতিক	I-LOC
+ক্রিকেট	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+পাল্লেকেলে	B-LOC
+
+উইলিয়াম	B-PER
+মন্টগোমারি	I-PER
+ওয়াট	I-PER
+
+অ্যানড্রোমিডা	B-PER
+(	I-PER
+পুরাণ	I-PER
+)	I-PER
+
+উপরের	O
+সঙ্গে	O
+কিরিবাসকে	B-LOC
+অন্তর্ভুক্ত	O
+করা	O
+হয়নি।	O
+
+ফিনিক্স	B-LOC
+,	I-LOC
+অ্যারিজোনা	I-LOC
+
+রবার্ট	B-PER
+মরিসন	I-PER
+ম্যাকাইভার	I-PER
+
+বায়ার	B-ORG
+০৪	I-ORG
+লেভারকুজেন	I-ORG
+
+মায়ানমার	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+মেক্সিকো	B-ORG
+সিটি	I-ORG
+মেট্রো	I-ORG
+
+চন্দ্রশেখর	B-PER
+ভেঙ্কট	I-PER
+রামন	I-PER
+
+'	O
+''	O
+আল-আমিন	B-PER
+হোসেন	I-PER
+''	O
+'	O
+
+রিও	B-LOC
+দি	I-LOC
+জেনেরিও	I-LOC
+
+রিও	B-LOC
+দি	I-LOC
+জেনেরিও	I-LOC
+
+গণতান্ত্রিক	B-LOC
+কঙ্গো	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+ভিলহেল্ম	B-PER
+কনরাড	I-PER
+র‌ন্টগেন	I-PER
+
+বিষেন	B-PER
+সিং	I-PER
+বেদী	I-PER
+
+আবুধাবি	B-LOC
+,	O
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+ন্যাশনাল	B-ORG
+সেন্টার	I-ORG
+ফর	I-ORG
+সুপারকম্পিউটিং	I-ORG
+এপ্লিকেশন্স	I-ORG
+
+আবদুল	B-PER
+আজিজ	I-PER
+ইবনে	I-PER
+সৌদ	I-PER
+
+বসনিয়া	B-LOC
+ও	I-LOC
+হার্জেগোভিনা	I-LOC
+
+মার্কিন	B-ORG
+যুক্তরাষ্ট্রের	I-ORG
+রাষ্ট্রপতি	I-ORG
+
+শেখ	B-LOC
+আবু	I-LOC
+নাসের	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+খুলনা	B-LOC
+
+ইকরিমা	B-PER
+ইবনে	I-PER
+আবি	I-PER
+জাহল	I-PER
+
+দ্বিতীয়	B-PER
+আল	I-PER
+ওয়ালিদ	I-PER
+–	O
+৭৪৩	O
+–	O
+৭৪৪	O
+
+ফেডারেশন	B-ORG
+অব	I-ORG
+ইন্টারন্যাশনাল	I-ORG
+ক্রিকেটার্স	I-ORG
+অ্যাসোসিয়েশনস	I-ORG
+
+অস্ট্রীয়	B-ORG
+গ্রীন	I-ORG
+পার্টি	I-ORG
+
+'	O
+''	O
+ব্রেন্ডন	B-PER
+টেলর	I-PER
+''	O
+'	O
+
+জালাল	B-PER
+উদ্দিন	I-PER
+মুহাম্মদ	I-PER
+রুমি	I-PER
+
+দমন	B-LOC
+ও	I-LOC
+দিউ	I-LOC
+
+সুভাষ	B-PER
+মুখোপাধ্যায়	I-PER
+(	I-PER
+কবি	I-PER
+)	I-PER
+
+স্প্রিংফিল্ড	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+'	O
+''	O
+জাস্টিন	B-PER
+অনটং	I-PER
+''	O
+'	O
+
+বিশ্ব	B-ORG
+বাণিজ্য	I-ORG
+সংস্থা	I-ORG
+
+**	O
+ইস্টার্ন	B-LOC
+রকহুপার	I-LOC
+পেঙ্গুইন	I-LOC
+,	O
+Eastern	O
+rockhopper	O
+penguin	O
+,	O
+''Eudyptes	O
+filholi	O
+''	O
+
+অটো	B-PER
+ফন	I-PER
+বিসমার্ক	I-PER
+
+জাপানি	B-ORG
+মহাকাশ	I-ORG
+অনুসন্ধান	I-ORG
+সংস্থা	I-ORG
+
+সবুজ	B-LOC
+করাতি	I-LOC
+হাঙ্গর	I-LOC
+
+রয়াল	B-ORG
+ফেস্টিভাল	I-ORG
+হল	I-ORG
+
+ইংল্যান্ড	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+উত্তর	B-LOC
+চব্বিশ	I-LOC
+পরগণা	I-LOC
+জেলা	I-LOC
+
+ওয়েস্ট	B-ORG
+ইন্ডিজ	I-ORG
+মহিলা	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+রুশীয়	B-LOC
+সোভিয়েত	I-LOC
+যুক্তরাষ্ট্রীয়	I-LOC
+সমাজতান্ত্রিক	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+সিঙ্গাপুরের	B-ORG
+জাতীয়	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+অস্ট্রিয়ার	B-ORG
+সমাজবাদী	I-ORG
+গণতন্ত্রী	I-ORG
+পার্টি	I-ORG
+
+মোরিস	B-PER
+রনে	I-PER
+ফ্রেশে	I-PER
+
+ইংল্যান্ড	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+নিউল্যান্ডস	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+কেপ	B-LOC
+টাউন	I-LOC
+
+ভারতীয়ের	O
+হুক্কা	O
+গ্রহনের	O
+দৃশ্য	O
+,	O
+রাজস্থান	B-LOC
+,	O
+ভারত]]	O
+
+ভোল্‌ফগাংক্‌	B-PER
+আমাডেয়ুস	I-PER
+মোৎসার্ট	I-PER
+
+আল	B-LOC
+আনবার	I-LOC
+প্রদেশ	I-LOC
+
+মার্টিন	B-PER
+লুথার	I-PER
+কিং	I-PER
+,	I-PER
+জুনিয়র	I-PER
+
+লস	B-ORG
+অ্যাঞ্জেলেস	I-ORG
+টাইমস	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+'	O
+''	O
+ডালাস	B-LOC
+''	O
+'	O
+
+আবীর	B-PER
+চট্টোপাধ্যায়	I-PER
+ও	O
+আরো	O
+অনেকে	O
+
+'	O
+''	O
+পূর্ব	B-ORG
+রেল	I-ORG
+''	O
+'	O
+
+''চিত্রনাট্য	O
+''	O
+-	O
+হুমায়ূন	B-PER
+আহমেদ	I-PER
+
+ইসলামী	B-ORG
+ঐক্য	I-ORG
+জোট	I-ORG
+
+অস্ট্রেলিয়া	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+ঈদের	O
+দিনে	O
+সেমাই	B-ORG
+সবচেয়ে	O
+প্রচলিত	O
+খাবার।	O
+এবং	O
+বিশেষ	O
+আরো	O
+অনেক	O
+ধরনের	O
+খাবার	O
+ধনি	O
+গরীব	O
+সকলের	O
+ঘরে	O
+তৈরী	O
+করা	O
+হয়।	O
+
+২০১০	B-ORG
+কমনওয়েলথ	I-ORG
+গেমস	I-ORG
+
+কলা	B-LOC
+(	I-LOC
+জীববিজ্ঞান	I-LOC
+)	I-LOC
+
+'	O
+''	O
+মাহেলা	B-PER
+জয়াবর্ধনে	I-PER
+''	O
+'	O
+
+'	O
+''	O
+অলোক	B-PER
+কাপালি	I-PER
+''	O
+'	O
+
+পার্থ	B-PER
+প্রতিম	I-PER
+মজুমদার	I-PER
+
+আলফ্রেড	B-PER
+নর্থ	I-PER
+হোয়াইটহেড	I-PER
+
+এডউইন	B-PER
+ফন	I-PER
+দের	I-PER
+সার	I-PER
+
+প্রধান	B-ORG
+ধর্মাবলম্বী	I-ORG
+গোষ্ঠীসমূহ	I-ORG
+
+জাদু	B-ORG
+(	I-ORG
+মায়াবিদ্যা	I-ORG
+)	I-ORG
+
+অ্যাভাটর	B-ORG
+:	I-ORG
+দ্য	I-ORG
+লাস্ট	I-ORG
+এয়ারবেন্ডার	I-ORG
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+পুসারলা	B-PER
+ভেঙ্কট	I-PER
+সিন্ধু	I-PER
+
+রবার্ট	B-PER
+সার্ভিস	I-PER
+(	I-PER
+কবি	I-PER
+)	I-PER
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+সৈয়দ	B-PER
+নজরুল	I-PER
+ইসলাম	I-PER
+(	O
+অস্থায়ী	O
+)	O
+
+রূপসা	B-LOC
+উপজেলা	I-LOC
+,	O
+দিঘলিয়া	B-LOC
+উপজেলা	I-LOC
+এবং	O
+তেরখাদা	B-LOC
+উপজেলা	I-LOC
+
+অর্জুন	B-PER
+(	I-PER
+পাণ্ডব	I-PER
+)	I-PER
+
+ওয়াশিংটন	B-LOC
+(	I-LOC
+অঙ্গরাজ্য	I-LOC
+)	I-LOC
+
+বোমান	B-PER
+ইরানি	I-PER
+-	O
+ভীরু	O
+সাহাস্ত্রবুদ্ধে	O
+
+চার্লস	B-PER
+দ্য	I-PER
+গল	I-PER
+
+গ্রেগর	B-PER
+ইয়োহান	I-PER
+মেন্ডেল	I-PER
+
+সোহম	B-PER
+চক্রবর্তী	I-PER
+,	O
+মিমি	B-PER
+চক্রবর্তী	I-PER
+,	O
+আবীর	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+পায়েল	B-PER
+সরকার	I-PER
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+বল্টিমোর	B-ORG
+মেট্রো	I-ORG
+সাবওয়ে	I-ORG
+
+২০১০	B-ORG
+কমনওয়েলথ	I-ORG
+গেমস	I-ORG
+
+নিউল্যান্ডস	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+কেপ	B-LOC
+টাউন	I-LOC
+
+ফ্রান্স	B-LOC
+,	O
+কানাডা	B-LOC
+,	O
+বেলজিয়াম	B-LOC
+,	O
+সুইজারল্যান্ড	B-LOC
+,	O
+ফরাসি	B-LOC
+গায়ানা	I-LOC
+,	O
+ফরাসি	B-LOC
+পলিনেশিয়া	I-LOC
+
+উত্তর	B-LOC
+পশ্চিম	I-LOC
+প্রদেশ	I-LOC
+(	I-LOC
+দক্ষিণ	I-LOC
+আফ্রিকা	I-LOC
+)	I-LOC
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+হবিগঞ্জ	B-LOC
+সদর	I-LOC
+উপজেলা	I-LOC
+;	O
+
+কার্ল	B-PER
+এডুইন	I-PER
+ওয়াইম্যান	I-PER
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+পশ্চিম	B-LOC
+আজারবাইজান	I-LOC
+প্রদেশ	I-LOC
+
+বড়বাজার	B-LOC
+,	I-LOC
+পুরুলিয়া	I-LOC
+
+বেভারলি	B-LOC
+হিলস	I-LOC
+,	I-LOC
+ক্যালিফোর্নিয়া	I-LOC
+
+অ্যান	B-PER
+এলিজাবেথ	I-PER
+ডানউডি	I-PER
+
+আর.	B-PER
+বি.	I-PER
+ওয়েন্স	I-PER
+
+টেখনিশে	B-ORG
+উনিভের্সিটেট	I-ORG
+ডার্মষ্টাট	I-ORG
+
+আর্সেনাল	B-ORG
+(	O
+ইংল্যান্ড	B-LOC
+)	O
+
+সাইয়েদ	B-PER
+আবুল	I-PER
+আ'লা	I-PER
+মওদুদী	I-PER
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+দ্য	B-ORG
+নিউ	I-ORG
+ইয়র্ক	I-ORG
+টাইমস	I-ORG
+
+লাদাখ	B-LOC
+,	O
+জম্মু	B-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+
+ম্যানচেস্টার	B-ORG
+সিটি	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+জর্জ	B-PER
+ডব্লিউ	I-PER
+কেসি	I-PER
+,	I-PER
+জুনিয়র	I-PER
+
+আফ্রিকান	B-LOC
+পাথুরে	I-LOC
+তুলিকা	I-LOC
+
+এটি	O
+ভারতের	B-LOC
+মিজোরাম	B-LOC
+রাজ্যের	O
+রাজধানী।	O
+
+সাঁ	B-LOC
+পিয়ের	I-LOC
+ও	I-LOC
+মিক‌লোঁ	I-LOC
+
+পূর্ণ	B-PER
+অ্যাজিটক	I-PER
+সাংমা	I-PER
+
+চিল্ড্রেন	B-ORG
+অব	I-ORG
+বডম	I-ORG
